@@ -1,0 +1,2925 @@
+{
+  "video_metadata": {
+    "video_id": "1K5JRL2wS8c",
+    "title": "Maryam Nawaz on Basant Safety Measures in Lahore | Basant 2026 Control Room Update - Geo News",
+    "channel": "Geo News",
+    "channel_id": "UC_vt34wimdCzdkrzVejwX9g",
+    "upload_month": "February 2026",
+    "upload_year": 2026,
+    "upload_month_number": 2,
+    "duration_seconds": 778
+  },
+  "processing_results": {
+    "ticker": {
+      "unique_frames_count": 233,
+      "unique_frames": [
+        {
+          "id": 0,
+          "timestamp": 0.0,
+          "image_path": "unique_ticker_frames/ticker_0000_t0.00s.jpg",
+          "extracted_text": "آٹھ ملین اور یان کا ڈیٹا ہیک ہو گیا"
+        },
+        {
+          "id": 1,
+          "timestamp": 4.0,
+          "image_path": "unique_ticker_frames/ticker_0001_t4.00s.jpg",
+          "extracted_text": "552 بلین یوان کا ڈیٹا ہیک ہو گیا"
+        },
+        {
+          "id": 2,
+          "timestamp": 6.0,
+          "image_path": "unique_ticker_frames/ticker_0002_t6.00s.jpg",
+          "extracted_text": "ہیک ہو گیا ۔ چین کے آٹھ ملین یوان"
+        },
+        {
+          "id": 3,
+          "timestamp": 10.0,
+          "image_path": "unique_ticker_frames/ticker_0003_t10.00s.jpg",
+          "extracted_text": "ہیک ہو گیا ۔ چین کے 8 ملین یوان صارفین"
+        },
+        {
+          "id": 4,
+          "timestamp": 14.0,
+          "image_path": "unique_ticker_frames/ticker_0004_t14.00s.jpg",
+          "extracted_text": "ڈیٹا ہیک ہو گیا ۔ چین کے 8 ملین یوان صارفین کا"
+        },
+        {
+          "id": 5,
+          "timestamp": 18.0,
+          "image_path": "unique_ticker_frames/ticker_0005_t18.00s.jpg",
+          "extracted_text": "ڈیٹا ہیک ہو گیا ۔ چین کے 8 ملین یوان صارفین کا ڈیٹا"
+        },
+        {
+          "id": 6,
+          "timestamp": 20.0,
+          "image_path": "unique_ticker_frames/ticker_0006_t20.00s.jpg",
+          "extracted_text": "ڈینٹیا ہیک ہو گیا ۔ 442 کروڑ 50 لاکھ یوان ہیک"
+        },
+        {
+          "id": 7,
+          "timestamp": 24.0,
+          "image_path": "unique_ticker_frames/ticker_0007_t24.00s.jpg",
+          "extracted_text": "ڈینٹیا ہیک ہو گیا ۔ 442 کروڑ 50 لاکھ یوان"
+        },
+        {
+          "id": 8,
+          "timestamp": 26.0,
+          "image_path": "unique_ticker_frames/ticker_0008_t26.00s.jpg",
+          "extracted_text": "ڈینٹیا ہیک ہو گیا ۔ 442 کروڑ 50 لاکھ یوان صارفین"
+        },
+        {
+          "id": 9,
+          "timestamp": 30.0,
+          "image_path": "unique_ticker_frames/ticker_0009_t30.00s.jpg",
+          "extracted_text": "یوان صارفین کا ڈیٹابیک ہو گیا 2 بلین"
+        },
+        {
+          "id": 10,
+          "timestamp": 34.0,
+          "image_path": "unique_ticker_frames/ticker_0010_t34.00s.jpg",
+          "extracted_text": "ہو گیا 2 بلین یوان صارفین کا ڈیا بیک"
+        },
+        {
+          "id": 11,
+          "timestamp": 36.0,
+          "image_path": "unique_ticker_frames/ticker_0011_t36.00s.jpg",
+          "extracted_text": "ہیک ہو گیا ہے ۔ 2 بلین یوان صارفین"
+        },
+        {
+          "id": 12,
+          "timestamp": 40.0,
+          "image_path": "unique_ticker_frames/ticker_0012_t40.00s.jpg",
+          "extracted_text": "ہو گیا ہے ۔ آٹھ ملین یوان صارفین کا ڈیٹا ہیک ہو"
+        },
+        {
+          "id": 13,
+          "timestamp": 44.0,
+          "image_path": "unique_ticker_frames/ticker_0013_t44.00s.jpg",
+          "extracted_text": "بلین یوان صارفین کا ڈیٹا ہیک ہو گیا ہے ۔"
+        },
+        {
+          "id": 14,
+          "timestamp": 46.0,
+          "image_path": "unique_ticker_frames/ticker_0014_t46.00s.jpg",
+          "extracted_text": "ملین یوان صارفین کا ڈیٹا ہیک ہو گیا ہے"
+        },
+        {
+          "id": 15,
+          "timestamp": 50.0,
+          "image_path": "unique_ticker_frames/ticker_0015_t50.00s.jpg",
+          "extracted_text": "ملین یوان صارفین کا ڈیٹا ہیک ہو گیا"
+        },
+        {
+          "id": 16,
+          "timestamp": 54.0,
+          "image_path": "unique_ticker_frames/ticker_0016_t54.00s.jpg",
+          "extracted_text": "صارفین کا ڈیٹا ہیک ہو گیا ہے 2 بلین"
+        },
+        {
+          "id": 17,
+          "timestamp": 56.0,
+          "image_path": "unique_ticker_frames/ticker_0017_t56.00s.jpg",
+          "extracted_text": "صارفین کا ڈیٹا ہیک ہو گیا ہے ۔ 2 بلین یوان"
+        },
+        {
+          "id": 18,
+          "timestamp": 60.0,
+          "image_path": "unique_ticker_frames/ticker_0018_t60.00s.jpg",
+          "extracted_text": "صارفین کا ڈیٹا ہیک ہو گیا ۔ ایک ارب یوان صارفین"
+        },
+        {
+          "id": 19,
+          "timestamp": 64.0,
+          "image_path": "unique_ticker_frames/ticker_0019_t64.00s.jpg",
+          "extracted_text": "ملین یوان صارفین کا ڈیٹا ہیک ہو گیا ۔"
+        },
+        {
+          "id": 20,
+          "timestamp": 66.0,
+          "image_path": "unique_ticker_frames/ticker_0020_t66.00s.jpg",
+          "extracted_text": "ملین یوان صارفین کا ڈیٹا ہیک ہو گیا ہے ۔"
+        },
+        {
+          "id": 21,
+          "timestamp": 70.0,
+          "image_path": "unique_ticker_frames/ticker_0021_t70.00s.jpg",
+          "extracted_text": "ایک ملین یوان کا ڈیٹا ہیک ہو گیا ہے ۔"
+        },
+        {
+          "id": 22,
+          "timestamp": 74.0,
+          "image_path": "unique_ticker_frames/ticker_0022_t74.00s.jpg",
+          "extracted_text": "ملین یوان کا ڈیٹا ہیک ہو گیا ہے ۔ 2"
+        },
+        {
+          "id": 23,
+          "timestamp": 76.0,
+          "image_path": "unique_ticker_frames/ticker_0023_t76.00s.jpg",
+          "extracted_text": "ملین یوان کا ڈیٹا ہیک ہو گیا ہے ۔ 2 کروڑ"
+        },
+        {
+          "id": 24,
+          "timestamp": 80.0,
+          "image_path": "unique_ticker_frames/ticker_0024_t80.00s.jpg",
+          "extracted_text": "بلین یوان صارفین کا ڈیٹابیک ہو گیا"
+        },
+        {
+          "id": 25,
+          "timestamp": 84.0,
+          "image_path": "unique_ticker_frames/ticker_0025_t84.00s.jpg",
+          "extracted_text": "بلین یوان صارفین کا ڈیٹابیک ہو گیا ۔"
+        },
+        {
+          "id": 26,
+          "timestamp": 86.0,
+          "image_path": "unique_ticker_frames/ticker_0026_t86.00s.jpg",
+          "extracted_text": "بلین یوان صارفین کا ڈیٹابیک ہو گیا ۔ 2 ملین"
+        },
+        {
+          "id": 27,
+          "timestamp": 90.0,
+          "image_path": "unique_ticker_frames/ticker_0027_t90.00s.jpg",
+          "extracted_text": "بلین یوان صارفین کا ڈیٹابیک ہو گیا ۔ 2 ملین یوان"
+        },
+        {
+          "id": 28,
+          "timestamp": 94.0,
+          "image_path": "unique_ticker_frames/ticker_0028_t94.00s.jpg",
+          "extracted_text": "بلین یوان صارفین کا ڈیٹابیک ہو گیا ۔ 2 ملین یوان صارفین"
+        },
+        {
+          "id": 29,
+          "timestamp": 96.0,
+          "image_path": "unique_ticker_frames/ticker_0029_t96.00s.jpg",
+          "extracted_text": "بلین یوان صارفین کا ڈیٹابیک ہو گیا ۔ 2 ملین یوان صارفین کا"
+        },
+        {
+          "id": 30,
+          "timestamp": 100.0,
+          "image_path": "unique_ticker_frames/ticker_0030_t100.00s.jpg",
+          "extracted_text": "۱۷-۷/ پاکستانی فوج نے سری لنکن ٹیم کی حفاظت سنبھال لی"
+        },
+        {
+          "id": 31,
+          "timestamp": 104.0,
+          "image_path": "unique_ticker_frames/ticker_0031_t104.00s.jpg",
+          "extracted_text": "۱۷-۷/ پاکستانی فوج نے سری لنکن ٹیم کی حفاظت سنبھال لی"
+        },
+        {
+          "id": 32,
+          "timestamp": 106.0,
+          "image_path": "unique_ticker_frames/ticker_0032_t106.00s.jpg",
+          "extracted_text": "۱۷-۷/ پاکستانی فوج نے سری لنکن ٹیم کی حفاظت سنبھال لی"
+        },
+        {
+          "id": 33,
+          "timestamp": 110.0,
+          "image_path": "unique_ticker_frames/ticker_0033_t110.00s.jpg",
+          "extracted_text": "%۹-۰/۲،۵۲،۳/۵۰،۴،۲"
+        },
+        {
+          "id": 34,
+          "timestamp": 114.0,
+          "image_path": "unique_ticker_frames/ticker_0034_t114.00s.jpg",
+          "extracted_text": "۱۷-۷/ لاہور: ٹیم سکیورٹی میں غیر معمولی اضافہ کیا گیا"
+        },
+        {
+          "id": 35,
+          "timestamp": 116.0,
+          "image_path": "unique_ticker_frames/ticker_0035_t116.00s.jpg",
+          "extracted_text": "۱۷-۷/ لاہور: ٹیم سکیورٹی میں غیر معمولی اضافہ کیا گیا"
+        },
+        {
+          "id": 36,
+          "timestamp": 120.0,
+          "image_path": "unique_ticker_frames/ticker_0036_t120.00s.jpg",
+          "extracted_text": "۱۷-۷/ پاکستانی فوج نے سری لنکن ٹیم کی حفاظت سنبھال لی"
+        },
+        {
+          "id": 37,
+          "timestamp": 124.0,
+          "image_path": "unique_ticker_frames/ticker_0037_t124.00s.jpg",
+          "extracted_text": "۱۷-۷/ اسلام آباد/ راولپنڈی کے مختلف علاقوں میں بارش"
+        },
+        {
+          "id": 38,
+          "timestamp": 126.0,
+          "image_path": "unique_ticker_frames/ticker_0038_t126.00s.jpg",
+          "extracted_text": "۱۷-۷/ اسلام آباد/ راولپنڈی کے مختلف علاقوں میں بارش"
+        },
+        {
+          "id": 39,
+          "timestamp": 130.0,
+          "image_path": "unique_ticker_frames/ticker_0039_t130.00s.jpg",
+          "extracted_text": "۱۷-۷/ کراچی: گلشن اقبال بلاک ۷ میں ٹریفک حادثہ، ۲ افراد جاں بحق"
+        },
+        {
+          "id": 40,
+          "timestamp": 134.0,
+          "image_path": "unique_ticker_frames/ticker_0040_t134.00s.jpg",
+          "extracted_text": "%۱-۷/۰،۰۹،۲/۵۳،۷،۲"
+        },
+        {
+          "id": 41,
+          "timestamp": 136.0,
+          "image_path": "unique_ticker_frames/ticker_0041_t136.00s.jpg",
+          "extracted_text": "%۱-۷/۰،۰۹،۲/۵۳،۷،۲"
+        },
+        {
+          "id": 42,
+          "timestamp": 140.0,
+          "image_path": "unique_ticker_frames/ticker_0042_t140.00s.jpg",
+          "extracted_text": "۱۷-۷/ لاہور: صدر ہائی کورٹ بار نے وکلاء سے خطاب کیا"
+        },
+        {
+          "id": 43,
+          "timestamp": 144.0,
+          "image_path": "unique_ticker_frames/ticker_0043_t144.00s.jpg",
+          "extracted_text": "%۷-۳/۵،۷۶،۲/۵۳،۷،۲"
+        },
+        {
+          "id": 44,
+          "timestamp": 146.0,
+          "image_path": "unique_ticker_frames/ticker_0044_t146.00s.jpg",
+          "extracted_text": "%۷-۳/۵،۷۶،۲/۵۳،۷،۲"
+        },
+        {
+          "id": 45,
+          "timestamp": 150.0,
+          "image_path": "unique_ticker_frames/ticker_0045_t150.00s.jpg",
+          "extracted_text": "۱۷-۷/ کوئٹہ: ۳ روز سے جاری بارشوں کا سلسلہ مزید تیز ہو گیا"
+        },
+        {
+          "id": 46,
+          "timestamp": 154.0,
+          "image_path": "unique_ticker_frames/ticker_0046_t154.00s.jpg",
+          "extracted_text": "%۷-۷/۰،۰۹،۲/۵۳،۷،۲"
+        },
+        {
+          "id": 47,
+          "timestamp": 156.0,
+          "image_path": "unique_ticker_frames/ticker_0047_t156.00s.jpg",
+          "extracted_text": "%۷-۷/۰،۰۹،۲/۵۳،۷،۲"
+        },
+        {
+          "id": 48,
+          "timestamp": 160.0,
+          "image_path": "unique_ticker_frames/ticker_0048_t160.00s.jpg",
+          "extracted_text": "۱۷-۷/ لاہو ر: شہر میں سکیورٹی انتظامات انتہائی سخت کردیئے گئے"
+        },
+        {
+          "id": 49,
+          "timestamp": 164.0,
+          "image_path": "unique_ticker_frames/ticker_0049_t164.00s.jpg",
+          "extracted_text": "۱۷-۷/ پشاور: بڈھ بیر میں پولیس کے سرچ آپریشن کے بعد"
+        },
+        {
+          "id": 50,
+          "timestamp": 166.0,
+          "image_path": "unique_ticker_frames/ticker_0050_t166.00s.jpg",
+          "extracted_text": "۱۷-۷/ پشاور: بڈھ بیر میں پولیس کے سرچ آپریشن کے بعد"
+        },
+        {
+          "id": 51,
+          "timestamp": 170.0,
+          "image_path": "unique_ticker_frames/ticker_0051_t170.00s.jpg",
+          "extracted_text": "۱۷-۷/ لاہور: گورنر ہاؤس کے قریب جانے والے راستے سیل کر دیئے گئے"
+        },
+        {
+          "id": 52,
+          "timestamp": 174.0,
+          "image_path": "unique_ticker_frames/ticker_0052_t174.00s.jpg",
+          "extracted_text": "۱۷-۷/ اسلام آباد: ایوب پارک میں سیکورٹی کیلئے پولیس اہلکار تعینات"
+        },
+        {
+          "id": 53,
+          "timestamp": 176.0,
+          "image_path": "unique_ticker_frames/ticker_0053_t176.00s.jpg",
+          "extracted_text": "۱۷-۷/ اسلام آباد: ایوب پارک میں سیکورٹی کیلئے پولیس اہلکار تعینات"
+        },
+        {
+          "id": 54,
+          "timestamp": 180.0,
+          "image_path": "unique_ticker_frames/ticker_0054_t180.00s.jpg",
+          "extracted_text": "۱۷-۷/ اسلام آباد: مری میں جانے والے سیاحوں کی تعداد میں غیر معمولی اضافہ"
+        },
+        {
+          "id": 55,
+          "timestamp": 184.0,
+          "image_path": "unique_ticker_frames/ticker_0055_t184.00s.jpg",
+          "extracted_text": "۱۷-۷/ مری میں جانے والے سیاحوں کی تعداد میں غیر معمولی اضافہ"
+        },
+        {
+          "id": 56,
+          "timestamp": 186.0,
+          "image_path": "unique_ticker_frames/ticker_0056_t186.00s.jpg",
+          "extracted_text": "۱۷-۷/ مری میں جانے والے سیاحوں کی تعداد میں غیر معمولی اضافہ"
+        },
+        {
+          "id": 57,
+          "timestamp": 190.0,
+          "image_path": "unique_ticker_frames/ticker_0057_t190.00s.jpg",
+          "extracted_text": "۱۷-۷/ پنجاب میں کل موسم صاف رہے گا، محکمہ موسمیات"
+        },
+        {
+          "id": 58,
+          "timestamp": 194.0,
+          "image_path": "unique_ticker_frames/ticker_0058_t194.00s.jpg",
+          "extracted_text": "۱۷-۷/ اسلام آباد: ایوب پارک میں سیکورٹی کیلئے پولیس اہلکار تعینات"
+        },
+        {
+          "id": 59,
+          "timestamp": 196.0,
+          "image_path": "unique_ticker_frames/ticker_0059_t196.00s.jpg",
+          "extracted_text": "۱۷-۷/ اسلام آباد: ایوب پارک میں سیکورٹی کیلئے پولیس اہلکار تعینات"
+        },
+        {
+          "id": 60,
+          "timestamp": 200.0,
+          "image_path": "unique_ticker_frames/ticker_0060_t200.00s.jpg",
+          "extracted_text": "جناب بھارت اور امریکہ نے پاکستان کو دہشت گردی سے"
+        },
+        {
+          "id": 61,
+          "timestamp": 204.0,
+          "image_path": "unique_ticker_frames/ticker_0061_t204.00s.jpg",
+          "extracted_text": "نمٹنے کے لئے ان کی طرف سے کی جانے والی خدمات"
+        },
+        {
+          "id": 62,
+          "timestamp": 206.0,
+          "image_path": "unique_ticker_frames/ticker_0062_t206.00s.jpg",
+          "extracted_text": "نمٹنے کے لئے ان کی طرف سے کی جانے والی خدمات"
+        },
+        {
+          "id": 63,
+          "timestamp": 210.0,
+          "image_path": "unique_ticker_frames/ticker_0063_t210.00s.jpg",
+          "extracted_text": "دہشتگردی سے نمٹنے کے لئے ان کی طرف سے کی جانے والی خدمات"
+        },
+        {
+          "id": 64,
+          "timestamp": 214.0,
+          "image_path": "unique_ticker_frames/ticker_0064_t214.00s.jpg",
+          "extracted_text": "دہشتگردی سے نمٹنے کے لئے سراہا، سراج الحق"
+        },
+        {
+          "id": 65,
+          "timestamp": 216.0,
+          "image_path": "unique_ticker_frames/ticker_0065_t216.00s.jpg",
+          "extracted_text": "دہشتگردی سے نمٹنے کے لئے سراہا، سراج الحق"
+        },
+        {
+          "id": 66,
+          "timestamp": 220.0,
+          "image_path": "unique_ticker_frames/ticker_0066_t220.00s.jpg",
+          "extracted_text": "سراج الحق کہتے ہیں کہ پاکستان نے دہشتگردی کے خلاف جنگ"
+        },
+        {
+          "id": 67,
+          "timestamp": 224.0,
+          "image_path": "unique_ticker_frames/ticker_0067_t224.00s.jpg",
+          "extracted_text": "خلاف جنگ میں بھاری قیمت ادا کی ہے۔"
+        },
+        {
+          "id": 68,
+          "timestamp": 230.0,
+          "image_path": "unique_ticker_frames/ticker_0068_t230.00s.jpg",
+          "extracted_text": "خلاف جنگ میں بھاری قیمت ادا کی ہے۔"
+        },
+        {
+          "id": 69,
+          "timestamp": 234.0,
+          "image_path": "unique_ticker_frames/ticker_0069_t234.00s.jpg",
+          "extracted_text": "پاکستان نے دہشتگردی کے خلاف جنگ میں بھاری قیمت ادا کی"
+        },
+        {
+          "id": 70,
+          "timestamp": 236.0,
+          "image_path": "unique_ticker_frames/ticker_0070_t236.00s.jpg",
+          "extracted_text": "پاکستان نے دہشتگردی کے خلاف جنگ میں بھاری قیمت ادا کی"
+        },
+        {
+          "id": 71,
+          "timestamp": 240.0,
+          "image_path": "unique_ticker_frames/ticker_0071_t240.00s.jpg",
+          "extracted_text": "پاکستان نے دہشتگردی کے خلاف جنگ میں بھاری قیمت ادا کی"
+        },
+        {
+          "id": 72,
+          "timestamp": 244.0,
+          "image_path": "unique_ticker_frames/ticker_0072_t244.00s.jpg",
+          "extracted_text": "خدمات اور قربانیوں کو سراہا جانا چاہئے"
+        },
+        {
+          "id": 73,
+          "timestamp": 246.0,
+          "image_path": "unique_ticker_frames/ticker_0073_t246.00s.jpg",
+          "extracted_text": "خدمات اور قربانیوں کو سراہا جانا چاہئے"
+        },
+        {
+          "id": 74,
+          "timestamp": 250.0,
+          "image_path": "unique_ticker_frames/ticker_0074_t250.00s.jpg",
+          "extracted_text": "چاہئے، سراج الحق نے بیان میں مزید کہا۔"
+        },
+        {
+          "id": 75,
+          "timestamp": 254.0,
+          "image_path": "unique_ticker_frames/ticker_0075_t254.00s.jpg",
+          "extracted_text": "بیان میں مزید کہا کہ سی پیک منصوبے سے ملک ترقی کرے"
+        },
+        {
+          "id": 76,
+          "timestamp": 256.0,
+          "image_path": "unique_ticker_frames/ticker_0076_t256.00s.jpg",
+          "extracted_text": "ملک ترقی کرے گا اور خوشحالی آئے گی۔"
+        },
+        {
+          "id": 77,
+          "timestamp": 260.0,
+          "image_path": "unique_ticker_frames/ticker_0077_t260.00s.jpg",
+          "extracted_text": "ملک ترقی کرے گا اور خوشحالی آئے گی"
+        },
+        {
+          "id": 78,
+          "timestamp": 264.0,
+          "image_path": "unique_ticker_frames/ticker_0078_t264.00s.jpg",
+          "extracted_text": "ملک ترقی کرے گا اور خوشحالی آئے گی"
+        },
+        {
+          "id": 79,
+          "timestamp": 266.0,
+          "image_path": "unique_ticker_frames/ticker_0079_t266.00s.jpg",
+          "extracted_text": "گی، سراج الحق نے مزید کہا کہ حکومت ملک میں"
+        },
+        {
+          "id": 80,
+          "timestamp": 270.0,
+          "image_path": "unique_ticker_frames/ticker_0080_t270.00s.jpg",
+          "extracted_text": "حکومت ملک میں مہنگائی اور بیروزگاری کا مقابلہ"
+        },
+        {
+          "id": 81,
+          "timestamp": 274.0,
+          "image_path": "unique_ticker_frames/ticker_0081_t274.00s.jpg",
+          "extracted_text": "مقابلہ کرنے میں بری طرح ناکام ہوئی ہے"
+        },
+        {
+          "id": 82,
+          "timestamp": 276.0,
+          "image_path": "unique_ticker_frames/ticker_0082_t276.00s.jpg",
+          "extracted_text": "مقابلہ کرنے میں بری طرح ناکام ہوئی ہے"
+        },
+        {
+          "id": 83,
+          "timestamp": 280.0,
+          "image_path": "unique_ticker_frames/ticker_0083_t280.00s.jpg",
+          "extracted_text": "حکومت ملک میں مہنگائی اور بیروزگاری کا مقابلہ"
+        },
+        {
+          "id": 84,
+          "timestamp": 284.0,
+          "image_path": "unique_ticker_frames/ticker_0084_t284.00s.jpg",
+          "extracted_text": "حکومت ملک میں مہنگائی اور بیروزگاری کا مقابلہ"
+        },
+        {
+          "id": 85,
+          "timestamp": 286.0,
+          "image_path": "unique_ticker_frames/ticker_0085_t286.00s.jpg",
+          "extracted_text": "کرنے میں بری طرح ناکام ہوئی ہے، سراج الحق"
+        },
+        {
+          "id": 86,
+          "timestamp": 290.0,
+          "image_path": "unique_ticker_frames/ticker_0086_t290.00s.jpg",
+          "extracted_text": "سراج الحق نے کہا کہ اس ملک میں حکمرانوں نے"
+        },
+        {
+          "id": 87,
+          "timestamp": 294.0,
+          "image_path": "unique_ticker_frames/ticker_0087_t294.00s.jpg",
+          "extracted_text": "نے غریب عوام کو بھوک، پیاس اور غربت کے"
+        },
+        {
+          "id": 88,
+          "timestamp": 296.0,
+          "image_path": "unique_ticker_frames/ticker_0088_t296.00s.jpg",
+          "extracted_text": "پیاس اور غربت کے سوا کچھ نہیں دیا"
+        },
+        {
+          "id": 89,
+          "timestamp": 300.0,
+          "image_path": "unique_ticker_frames/ticker_0089_t300.00s.jpg",
+          "extracted_text": "غربت کے سوا کچھ نہیں دیا، سراج الحق"
+        },
+        {
+          "id": 90,
+          "timestamp": 304.0,
+          "image_path": "unique_ticker_frames/ticker_0090_t304.00s.jpg",
+          "extracted_text": "باب رحمت اللہ علی کا سالانہ عرس ۲۸/۲۷ مارچ کو ہوگا"
+        },
+        {
+          "id": 91,
+          "timestamp": 306.0,
+          "image_path": "unique_ticker_frames/ticker_0091_t306.00s.jpg",
+          "extracted_text": "باب رحمت اللہ علی کا سالانہ عرس ۲۷/۲۸ مارچ کو ہوگا"
+        },
+        {
+          "id": 92,
+          "timestamp": 310.0,
+          "image_path": "unique_ticker_frames/ticker_0092_t310.00s.jpg",
+          "extracted_text": "مفتی منیب الرحمٰن کی علماء و مشائخ سے مشاورت، آج کراچی میں ہوگی"
+        },
+        {
+          "id": 93,
+          "timestamp": 314.0,
+          "image_path": "unique_ticker_frames/ticker_0093_t314.00s.jpg",
+          "extracted_text": "مفتی منیب الرحمٰن کی علماء و مشائخ سے مشاورت، آج کراچی میں ہوگی"
+        },
+        {
+          "id": 94,
+          "timestamp": 316.0,
+          "image_path": "unique_ticker_frames/ticker_0094_t316.00s.jpg",
+          "extracted_text": "مفتی منیب الرحمٰن کی علماء و مشائخ سے مشاورت، آج کراچی میں ہوگی"
+        },
+        {
+          "id": 95,
+          "timestamp": 320.0,
+          "image_path": "unique_ticker_frames/ticker_0095_t320.00s.jpg",
+          "extracted_text": "عمران خان ۲۸ مارچ کو ساہیوال میں جلسہ عام سے خطاب کریں گے"
+        },
+        {
+          "id": 96,
+          "timestamp": 324.0,
+          "image_path": "unique_ticker_frames/ticker_0096_t324.00s.jpg",
+          "extracted_text": "عمران خان کی نا اہلی کے حوالے سے درخواست کی سماعت آج ہوگی"
+        },
+        {
+          "id": 97,
+          "timestamp": 326.0,
+          "image_path": "unique_ticker_frames/ticker_0097_t326.00s.jpg",
+          "extracted_text": "عمران خان کی نا اہلی کے حوالے سے درخواست کی سماعت آج ہوگی"
+        },
+        {
+          "id": 98,
+          "timestamp": 330.0,
+          "image_path": "unique_ticker_frames/ticker_0098_t330.00s.jpg",
+          "extracted_text": "آرمی چیف جنرل قمر جاوید باجوہ آج چین روانہ ہوں گے"
+        },
+        {
+          "id": 99,
+          "timestamp": 334.0,
+          "image_path": "unique_ticker_frames/ticker_0099_t334.00s.jpg",
+          "extracted_text": "آرمی چیف جنرل قمر جاوید باجوہ آج چین روانہ ہوں گے"
+        },
+        {
+          "id": 100,
+          "timestamp": 336.0,
+          "image_path": "unique_ticker_frames/ticker_0100_t336.00s.jpg",
+          "extracted_text": "آرمی چیف جنرل قمر جاوید باجوہ آج چین روانہ ہوں گے"
+        },
+        {
+          "id": 101,
+          "timestamp": 340.0,
+          "image_path": "unique_ticker_frames/ticker_0101_t340.00s.jpg",
+          "extracted_text": "آرمی چیف جنرل قمر جاوید باجوہ آج چین روانہ ہوں گے"
+        },
+        {
+          "id": 102,
+          "timestamp": 344.0,
+          "image_path": "unique_ticker_frames/ticker_0102_t344.00s.jpg",
+          "extracted_text": "آرمی چیف جنرل قمر جاوید باجوہ آج چین روانہ ہوں گے"
+        },
+        {
+          "id": 103,
+          "timestamp": 346.0,
+          "image_path": "unique_ticker_frames/ticker_0103_t346.00s.jpg",
+          "extracted_text": "آرمی چیف جنرل قمر جاوید باجوہ آج چین روانہ ہوں گے"
+        },
+        {
+          "id": 104,
+          "timestamp": 350.0,
+          "image_path": "unique_ticker_frames/ticker_0104_t350.00s.jpg",
+          "extracted_text": "نبی اکرم ﷺ کے غلاموں کا گھیراؤ کر رہا ہے ، مفتی منیب الرحمٰن"
+        },
+        {
+          "id": 105,
+          "timestamp": 354.0,
+          "image_path": "unique_ticker_frames/ticker_0105_t354.00s.jpg",
+          "extracted_text": "سابق گورنر سندھ عمران اسماعیل کا پی ٹی آئی چھوڑنے کا اعلان"
+        },
+        {
+          "id": 106,
+          "timestamp": 356.0,
+          "image_path": "unique_ticker_frames/ticker_0106_t356.00s.jpg",
+          "extracted_text": "سابق گورنر سندھ عمران اسماعیل کا پی ٹی آئی چھوڑنے کا اعلان"
+        },
+        {
+          "id": 107,
+          "timestamp": 360.0,
+          "image_path": "unique_ticker_frames/ticker_0107_t360.00s.jpg",
+          "extracted_text": "سعودی عرب کے ولی عہد محمد بن سلمان کے دورہ پاکستان کی تیاریوں"
+        },
+        {
+          "id": 108,
+          "timestamp": 364.0,
+          "image_path": "unique_ticker_frames/ticker_0108_t364.00s.jpg",
+          "extracted_text": "اسلام آباد: نگران حکومت کا ۲۴۸ ارب کا ضمنی بجٹ آج پیش کیا جائے گا"
+        },
+        {
+          "id": 109,
+          "timestamp": 366.0,
+          "image_path": "unique_ticker_frames/ticker_0109_t366.00s.jpg",
+          "extracted_text": "اسلام آباد: نگران حکومت کا ۲۴۸ ارب کا ضمنی بجٹ آج پیش کیا جائے گا"
+        },
+        {
+          "id": 110,
+          "timestamp": 370.0,
+          "image_path": "unique_ticker_frames/ticker_0110_t370.00s.jpg",
+          "extracted_text": "نگران حکومت کے وزراء اور مشیروں کے قلمدانوں کا اعلان آج کیا جا سکتا ہے"
+        },
+        {
+          "id": 111,
+          "timestamp": 374.0,
+          "image_path": "unique_ticker_frames/ticker_0111_t374.00s.jpg",
+          "extracted_text": "نگران حکومت کے وزراء اور مشیروں کے قلمدانوں کا اعلان آج کیا جا سکتا ہے"
+        },
+        {
+          "id": 112,
+          "timestamp": 376.0,
+          "image_path": "unique_ticker_frames/ticker_0112_t376.00s.jpg",
+          "extracted_text": "نگران حکومت کے وزراء اور مشیروں کے قلمدانوں کا اعلان آج کیا جا سکتا ہے"
+        },
+        {
+          "id": 113,
+          "timestamp": 380.0,
+          "image_path": "unique_ticker_frames/ticker_0113_t380.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب کے انتخاب میں ووٹوں کی خرید و فروخت کا دعویٰ"
+        },
+        {
+          "id": 114,
+          "timestamp": 384.0,
+          "image_path": "unique_ticker_frames/ticker_0114_t384.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب کے انتخاب میں ووٹوں کی خرید و فروخت کا دعویٰ"
+        },
+        {
+          "id": 115,
+          "timestamp": 386.0,
+          "image_path": "unique_ticker_frames/ticker_0115_t386.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب کے انتخاب میں ووٹوں کی خرید و فروخت کا دعویٰ"
+        },
+        {
+          "id": 116,
+          "timestamp": 390.0,
+          "image_path": "unique_ticker_frames/ticker_0116_t390.00s.jpg",
+          "extracted_text": "لاہور : پنجاب اسمبلی میں وزیر اعلیٰ کا انتخاب آج ہوگا ، حمزہ شہباز بھی"
+        },
+        {
+          "id": 117,
+          "timestamp": 394.0,
+          "image_path": "unique_ticker_frames/ticker_0117_t394.00s.jpg",
+          "extracted_text": "لاہور : پنجاب اسمبلی میں وزیر اعلیٰ کا انتخاب آج ہوگا ، حمزہ شہباز بھی"
+        },
+        {
+          "id": 118,
+          "timestamp": 396.0,
+          "image_path": "unique_ticker_frames/ticker_0118_t396.00s.jpg",
+          "extracted_text": "لاہور : پنجاب اسمبلی میں وزیر اعلیٰ کا انتخاب آج ہوگا ، حمزہ شہباز بھی"
+        },
+        {
+          "id": 119,
+          "timestamp": 400.0,
+          "image_path": "unique_ticker_frames/ticker_0119_t400.00s.jpg",
+          "extracted_text": "عمران خان ۲۵۰ کروڑ کے گھناؤنے فراڈ کے ذریعے آیا، خواجہ آصف"
+        },
+        {
+          "id": 120,
+          "timestamp": 404.0,
+          "image_path": "unique_ticker_frames/ticker_0120_t404.00s.jpg",
+          "extracted_text": "جب تک پارلیمان سے کرپشن کے خلاف بل پاس نہیں کرواتے، الیکشن میں"
+        },
+        {
+          "id": 121,
+          "timestamp": 406.0,
+          "image_path": "unique_ticker_frames/ticker_0121_t406.00s.jpg",
+          "extracted_text": "جب تک پارلیمان سے کرپشن کے خلاف بل پاس نہیں کرواتے، الیکشن میں پرمٹ"
+        },
+        {
+          "id": 122,
+          "timestamp": 410.0,
+          "image_path": "unique_ticker_frames/ticker_0122_t410.00s.jpg",
+          "extracted_text": "جب تک پارلیمان سے کرپشن کے خلاف بل پاس نہیں کرواتے، الیکشن میں پرمٹ ۵%"
+        },
+        {
+          "id": 123,
+          "timestamp": 414.0,
+          "image_path": "unique_ticker_frames/ticker_0123_t414.00s.jpg",
+          "extracted_text": "الیکشن میں پرمٹ ۲۵% سے زیادہ نہیں دیا جائے گا، الیکشن میں"
+        },
+        {
+          "id": 124,
+          "timestamp": 416.0,
+          "image_path": "unique_ticker_frames/ticker_0124_t416.00s.jpg",
+          "extracted_text": "الیکشن میں پرمٹ ۲۵% سے زیادہ نہیں دیا جائے گا، الیکشن میں"
+        },
+        {
+          "id": 125,
+          "timestamp": 420.0,
+          "image_path": "unique_ticker_frames/ticker_0125_t420.00s.jpg",
+          "extracted_text": "کے خلاف بل پاس نہیں کرواتے، الیکشن میں پرمٹ ۲۵% سے زیادہ"
+        },
+        {
+          "id": 126,
+          "timestamp": 424.0,
+          "image_path": "unique_ticker_frames/ticker_0126_t424.00s.jpg",
+          "extracted_text": "پرمٹ ۲۵% سے زیادہ نہیں دیا جائے گا، الیکشن میں پرمٹ"
+        },
+        {
+          "id": 127,
+          "timestamp": 426.0,
+          "image_path": "unique_ticker_frames/ticker_0127_t426.00s.jpg",
+          "extracted_text": "پرمٹ ۲۵% سے زیادہ نہیں دیا جائے گا، الیکشن میں پرمٹ"
+        },
+        {
+          "id": 128,
+          "timestamp": 430.0,
+          "image_path": "unique_ticker_frames/ticker_0128_t430.00s.jpg",
+          "extracted_text": "کرپشن کے خلاف بل پاس نہیں کرواتے، الیکشن میں پرمٹ"
+        },
+        {
+          "id": 129,
+          "timestamp": 434.0,
+          "image_path": "unique_ticker_frames/ticker_0129_t434.00s.jpg",
+          "extracted_text": "الیکشن میں پرمٹ ۲۵% سے زیادہ نہیں دیا جائے گا، الیکشن میں"
+        },
+        {
+          "id": 130,
+          "timestamp": 438.0,
+          "image_path": "unique_ticker_frames/ticker_0130_t438.00s.jpg",
+          "extracted_text": "الیکشن میں پرمٹ ۲۵% سے زیادہ نہیں دیا جائے گا، الیکشن میں"
+        },
+        {
+          "id": 131,
+          "timestamp": 440.0,
+          "image_path": "unique_ticker_frames/ticker_0131_t440.00s.jpg",
+          "extracted_text": "زیادہ نہیں دیا جائے گا، الیکشن میں پرمٹ ۲۵% سے زیادہ نہیں"
+        },
+        {
+          "id": 132,
+          "timestamp": 444.0,
+          "image_path": "unique_ticker_frames/ticker_0132_t444.00s.jpg",
+          "extracted_text": "پاس نہیں کرواتے، الیکشن میں پرمٹ ۲۵% سے زیادہ نہیں دیا"
+        },
+        {
+          "id": 133,
+          "timestamp": 446.0,
+          "image_path": "unique_ticker_frames/ticker_0133_t446.00s.jpg",
+          "extracted_text": "کرواتے، الیکشن میں پرمٹ ۲۵% سے زیادہ نہیں دیا جائے"
+        },
+        {
+          "id": 134,
+          "timestamp": 450.0,
+          "image_path": "unique_ticker_frames/ticker_0134_t450.00s.jpg",
+          "extracted_text": "نہیں کرواتے، الیکشن میں پرمٹ ۲۵% سے زیادہ نہیں دیا جائے"
+        },
+        {
+          "id": 135,
+          "timestamp": 454.0,
+          "image_path": "unique_ticker_frames/ticker_0135_t454.00s.jpg",
+          "extracted_text": "بل پاس نہیں کرواتے، الیکشن میں پرمٹ ۲۵% سے زیادہ نہیں"
+        },
+        {
+          "id": 136,
+          "timestamp": 456.0,
+          "image_path": "unique_ticker_frames/ticker_0136_t456.00s.jpg",
+          "extracted_text": "بل پاس نہیں کرواتے، الیکشن میں پرمٹ ۲۵% سے زیادہ نہیں"
+        },
+        {
+          "id": 137,
+          "timestamp": 460.0,
+          "image_path": "unique_ticker_frames/ticker_0137_t460.00s.jpg",
+          "extracted_text": "نہیں دیا جائے گا، الیکشن میں پرمٹ ۲۵% سے زیادہ نہیں دیا"
+        },
+        {
+          "id": 138,
+          "timestamp": 464.0,
+          "image_path": "unique_ticker_frames/ticker_0138_t464.00s.jpg",
+          "extracted_text": "کرواتے، الیکشن میں پرمٹ ۲۵% سے زیادہ نہیں دیا جائے"
+        },
+        {
+          "id": 139,
+          "timestamp": 466.0,
+          "image_path": "unique_ticker_frames/ticker_0139_t466.00s.jpg",
+          "extracted_text": "کرواتے، الیکشن میں پرمٹ ۲۵% سے زیادہ نہیں دیا جائے"
+        },
+        {
+          "id": 140,
+          "timestamp": 470.0,
+          "image_path": "unique_ticker_frames/ticker_0140_t470.00s.jpg",
+          "extracted_text": "جب تک پارلیمان سے کرپشن کے خلاف بل پاس نہیں کرواتے،"
+        },
+        {
+          "id": 141,
+          "timestamp": 474.0,
+          "image_path": "unique_ticker_frames/ticker_0141_t474.00s.jpg",
+          "extracted_text": "جب تک پارلیمان سے کرپشن کے خلاف بل پاس نہیں کرواتے،"
+        },
+        {
+          "id": 142,
+          "timestamp": 476.0,
+          "image_path": "unique_ticker_frames/ticker_0142_t476.00s.jpg",
+          "extracted_text": "سے کرپشن کے خلاف بل پاس نہیں کرواتے، الیکشن میں پرمٹ"
+        },
+        {
+          "id": 143,
+          "timestamp": 480.0,
+          "image_path": "unique_ticker_frames/ticker_0143_t480.00s.jpg",
+          "extracted_text": "پارلیمان سے کرپشن کے خلاف بل پاس نہیں کرواتے، الیکشن"
+        },
+        {
+          "id": 144,
+          "timestamp": 484.0,
+          "image_path": "unique_ticker_frames/ticker_0144_t484.00s.jpg",
+          "extracted_text": "جب تک پارلیمان سے کرپشن کے خلاف بل پاس نہیں کرواتے،"
+        },
+        {
+          "id": 145,
+          "timestamp": 486.0,
+          "image_path": "unique_ticker_frames/ticker_0145_t486.00s.jpg",
+          "extracted_text": "کے خلاف بل پاس نہیں کرواتے، الیکشن میں پرمٹ ۲۵%"
+        },
+        {
+          "id": 146,
+          "timestamp": 490.0,
+          "image_path": "unique_ticker_frames/ticker_0146_t490.00s.jpg",
+          "extracted_text": "کرپشن کے خلاف بل پاس نہیں کرواتے، الیکشن میں پرمٹ"
+        },
+        {
+          "id": 147,
+          "timestamp": 494.0,
+          "image_path": "unique_ticker_frames/ticker_0147_t494.00s.jpg",
+          "extracted_text": "کرواتے، الیکشن میں پرمٹ ۲۵% سے زیادہ نہیں دیا جائے"
+        },
+        {
+          "id": 148,
+          "timestamp": 496.0,
+          "image_path": "unique_ticker_frames/ticker_0148_t496.00s.jpg",
+          "extracted_text": "جب تک پارلیمان سے کرپشن کے خلاف بل پاس نہیں کرواتے،"
+        },
+        {
+          "id": 149,
+          "timestamp": 500.0,
+          "image_path": "unique_ticker_frames/ticker_0149_t500.00s.jpg",
+          "extracted_text": "جب تک پارلیمان سے کرپشن کے خلاف بل پاس نہیں کرواتے،"
+        },
+        {
+          "id": 150,
+          "timestamp": 504.0,
+          "image_path": "unique_ticker_frames/ticker_0150_t504.00s.jpg",
+          "extracted_text": "ترقی و خوشحالی کیلئے ہماری پوری قوم"
+        },
+        {
+          "id": 151,
+          "timestamp": 506.0,
+          "image_path": "unique_ticker_frames/ticker_0151_t506.00s.jpg",
+          "extracted_text": "ترقی و خوشحالی کیلئے ہماری پوری قوم متحد"
+        },
+        {
+          "id": 152,
+          "timestamp": 510.0,
+          "image_path": "unique_ticker_frames/ticker_0152_t510.00s.jpg",
+          "extracted_text": "خوشحالی کیلئے ہماری پوری قوم متحد ہے۔"
+        },
+        {
+          "id": 153,
+          "timestamp": 514.0,
+          "image_path": "unique_ticker_frames/ticker_0153_t514.00s.jpg",
+          "extracted_text": "خوشحالی کیلئے ہماری پوری قوم متحد ہے۔"
+        },
+        {
+          "id": 154,
+          "timestamp": 516.0,
+          "image_path": "unique_ticker_frames/ticker_0154_t516.00s.jpg",
+          "extracted_text": "کیلئے ہماری پوری قوم متحد ہے۔"
+        },
+        {
+          "id": 155,
+          "timestamp": 520.0,
+          "image_path": "unique_ticker_frames/ticker_0155_t520.00s.jpg",
+          "extracted_text": "ہماری پوری قوم متحد ہے۔"
+        },
+        {
+          "id": 156,
+          "timestamp": 524.0,
+          "image_path": "unique_ticker_frames/ticker_0156_t524.00s.jpg",
+          "extracted_text": "پوری قوم متحد ہے۔"
+        },
+        {
+          "id": 157,
+          "timestamp": 526.0,
+          "image_path": "unique_ticker_frames/ticker_0157_t526.00s.jpg",
+          "extracted_text": "قوم متحد ہے۔"
+        },
+        {
+          "id": 158,
+          "timestamp": 530.0,
+          "image_path": "unique_ticker_frames/ticker_0158_t530.00s.jpg",
+          "extracted_text": "متحد ہے۔"
+        },
+        {
+          "id": 159,
+          "timestamp": 534.0,
+          "image_path": "unique_ticker_frames/ticker_0159_t534.00s.jpg",
+          "extracted_text": "ہے۔"
+        },
+        {
+          "id": 160,
+          "timestamp": 536.0,
+          "image_path": "unique_ticker_frames/ticker_0160_t536.00s.jpg",
+          "extracted_text": "۔"
+        },
+        {
+          "id": 161,
+          "timestamp": 540.0,
+          "image_path": "unique_ticker_frames/ticker_0161_t540.00s.jpg",
+          "extracted_text": "NO_TEXT"
+        },
+        {
+          "id": 162,
+          "timestamp": 544.0,
+          "image_path": "unique_ticker_frames/ticker_0162_t544.00s.jpg",
+          "extracted_text": "NO_TEXT"
+        },
+        {
+          "id": 163,
+          "timestamp": 546.0,
+          "image_path": "unique_ticker_frames/ticker_0163_t546.00s.jpg",
+          "extracted_text": "NO_TEXT"
+        },
+        {
+          "id": 164,
+          "timestamp": 550.0,
+          "image_path": "unique_ticker_frames/ticker_0164_t550.00s.jpg",
+          "extracted_text": "ملک کی ترقی و خوشحالی کیلئے ہماری پوری قوم متحد ہے۔"
+        },
+        {
+          "id": 165,
+          "timestamp": 554.0,
+          "image_path": "unique_ticker_frames/ticker_0165_t554.00s.jpg",
+          "extracted_text": "ملک کی ترقی و خوشحالی کیلئے ہماری پوری قوم متحد ہے۔"
+        },
+        {
+          "id": 166,
+          "timestamp": 556.0,
+          "image_path": "unique_ticker_frames/ticker_0166_t556.00s.jpg",
+          "extracted_text": "ملک کی ترقی و خوشحالی کیلئے ہماری پوری قوم متحد ہے۔"
+        },
+        {
+          "id": 167,
+          "timestamp": 560.0,
+          "image_path": "unique_ticker_frames/ticker_0167_t560.00s.jpg",
+          "extracted_text": "ملک کی ترقی و خوشحالی کیلئے ہماری پوری قوم متحد ہے۔"
+        },
+        {
+          "id": 168,
+          "timestamp": 564.0,
+          "image_path": "unique_ticker_frames/ticker_0168_t564.00s.jpg",
+          "extracted_text": "ملک کی ترقی و خوشحالی کیلئے ہماری پوری قوم متحد ہے۔"
+        },
+        {
+          "id": 169,
+          "timestamp": 566.0,
+          "image_path": "unique_ticker_frames/ticker_0169_t566.00s.jpg",
+          "extracted_text": "ملک کی ترقی و خوشحالی کیلئے ہماری پوری قوم متحد ہے۔"
+        },
+        {
+          "id": 170,
+          "timestamp": 570.0,
+          "image_path": "unique_ticker_frames/ticker_0170_t570.00s.jpg",
+          "extracted_text": "بصیرت افروز کاوشوں کے ذریعے پاکستان کا مستقبل تابناک بنایا جا رہا ہے۔"
+        },
+        {
+          "id": 171,
+          "timestamp": 574.0,
+          "image_path": "unique_ticker_frames/ticker_0171_t574.00s.jpg",
+          "extracted_text": "بصیرت افروز کاوشوں کے ذریعے پاکستان کا مستقبل تابناک بنایا جا رہا ہے۔"
+        },
+        {
+          "id": 172,
+          "timestamp": 576.0,
+          "image_path": "unique_ticker_frames/ticker_0172_t576.00s.jpg",
+          "extracted_text": "بصیرت افروز کاوشوں کے ذریعے پاکستان کا مستقبل تابناک بنایا جا رہا ہے۔"
+        },
+        {
+          "id": 173,
+          "timestamp": 580.0,
+          "image_path": "unique_ticker_frames/ticker_0173_t580.00s.jpg",
+          "extracted_text": "بصیرت افروز کاوشوں کے ذریعے پاکستان کا مستقبل تابناک بنایا جا رہا ہے۔"
+        },
+        {
+          "id": 174,
+          "timestamp": 584.0,
+          "image_path": "unique_ticker_frames/ticker_0174_t584.00s.jpg",
+          "extracted_text": "بصیرت افروز کاوشوں کے ذریعے پاکستان کا مستقبل تابناک بنایا جا رہا ہے۔"
+        },
+        {
+          "id": 175,
+          "timestamp": 586.0,
+          "image_path": "unique_ticker_frames/ticker_0175_t586.00s.jpg",
+          "extracted_text": "بصیرت افروز کاوشوں کے ذریعے پاکستان کا مستقبل تابناک بنایا جا رہا ہے۔"
+        },
+        {
+          "id": 176,
+          "timestamp": 590.0,
+          "image_path": "unique_ticker_frames/ticker_0176_t590.00s.jpg",
+          "extracted_text": "بصیرت افروز کاوشوں کے ذریعے پاکستان کا مستقبل تابناک بنایا جا رہا ہے۔"
+        },
+        {
+          "id": 177,
+          "timestamp": 594.0,
+          "image_path": "unique_ticker_frames/ticker_0177_t594.00s.jpg",
+          "extracted_text": "بصیرت افروز کاوشوں کے ذریعے پاکستان کا مستقبل تابناک بنایا جا رہا ہے۔"
+        },
+        {
+          "id": 178,
+          "timestamp": 596.0,
+          "image_path": "unique_ticker_frames/ticker_0178_t596.00s.jpg",
+          "extracted_text": "بصیرت افروز کاوشوں کے ذریعے پاکستان کا مستقبل تابناک بنایا جا رہا ہے۔"
+        },
+        {
+          "id": 179,
+          "timestamp": 600.0,
+          "image_path": "unique_ticker_frames/ticker_0179_t600.00s.jpg",
+          "extracted_text": "بصیرت افروز کاوشوں کے ذریعے پاکستان کا مستقبل تابناک بنایا جا رہا ہے۔"
+        },
+        {
+          "id": 180,
+          "timestamp": 604.0,
+          "image_path": "unique_ticker_frames/ticker_0180_t604.00s.jpg",
+          "extracted_text": "ری پلوٹی سکھر کا پیکیج 2024 سکھر پر وائرل"
+        },
+        {
+          "id": 181,
+          "timestamp": 606.0,
+          "image_path": "unique_ticker_frames/ticker_0181_t606.00s.jpg",
+          "extracted_text": "ری پلوٹی سکھر کا پیکیج 2024 کا پر یل"
+        },
+        {
+          "id": 182,
+          "timestamp": 610.0,
+          "image_path": "unique_ticker_frames/ticker_0182_t610.00s.jpg",
+          "extracted_text": "ہفتے کو سکھر میں دوبارہ چھا جانے کا"
+        },
+        {
+          "id": 183,
+          "timestamp": 614.0,
+          "image_path": "unique_ticker_frames/ticker_0183_t614.00s.jpg",
+          "extracted_text": "ہفتے کو سکھر میں دوبارہ چھا جانے کا"
+        },
+        {
+          "id": 184,
+          "timestamp": 616.0,
+          "image_path": "unique_ticker_frames/ticker_0184_t616.00s.jpg",
+          "extracted_text": "ہفتے کو سکھر میں دوبارہ چھا جانے کا"
+        },
+        {
+          "id": 185,
+          "timestamp": 620.0,
+          "image_path": "unique_ticker_frames/ticker_0185_t620.00s.jpg",
+          "extracted_text": "ہفتے کو سکھر میں دوبارہ چھا جانے کا"
+        },
+        {
+          "id": 186,
+          "timestamp": 624.0,
+          "image_path": "unique_ticker_frames/ticker_0186_t624.00s.jpg",
+          "extracted_text": "ہفتے کو سکھر میں دوبارہ چھا جانے کا"
+        },
+        {
+          "id": 187,
+          "timestamp": 626.0,
+          "image_path": "unique_ticker_frames/ticker_0187_t626.00s.jpg",
+          "extracted_text": "ہفتے کو سکھر میں دوبارہ چھا جانے کا"
+        },
+        {
+          "id": 188,
+          "timestamp": 630.0,
+          "image_path": "unique_ticker_frames/ticker_0188_t630.00s.jpg",
+          "extracted_text": "ہفتے کو سکھر میں دوبارہ چھا جانے کا"
+        },
+        {
+          "id": 189,
+          "timestamp": 634.0,
+          "image_path": "unique_ticker_frames/ticker_0189_t634.00s.jpg",
+          "extracted_text": "تھا تو سکھر نے ایک ہی بات کی تھی۔"
+        },
+        {
+          "id": 190,
+          "timestamp": 636.0,
+          "image_path": "unique_ticker_frames/ticker_0190_t636.00s.jpg",
+          "extracted_text": "تھا تو سکھر نے ایک ہی بات کی تھی۔"
+        },
+        {
+          "id": 191,
+          "timestamp": 640.0,
+          "image_path": "unique_ticker_frames/ticker_0191_t640.00s.jpg",
+          "extracted_text": "تھا تو سکھر نے ایک ہی بات کی تھی۔"
+        },
+        {
+          "id": 192,
+          "timestamp": 644.0,
+          "image_path": "unique_ticker_frames/ticker_0192_t644.00s.jpg",
+          "extracted_text": "تھا تو سکھر نے ایک ہی بات کی تھی،"
+        },
+        {
+          "id": 193,
+          "timestamp": 648.0,
+          "image_path": "unique_ticker_frames/ticker_0193_t648.00s.jpg",
+          "extracted_text": "تھا تو سکھر نے ایک ہی بات کی تھی،"
+        },
+        {
+          "id": 194,
+          "timestamp": 650.0,
+          "image_path": "unique_ticker_frames/ticker_0194_t650.00s.jpg",
+          "extracted_text": "تھا تو سکھر نے ایک ہی بات کی تھی،"
+        },
+        {
+          "id": 195,
+          "timestamp": 654.0,
+          "image_path": "unique_ticker_frames/ticker_0195_t654.00s.jpg",
+          "extracted_text": "تھا تو سکھر نے ایک ہی بات کی تھی،"
+        },
+        {
+          "id": 196,
+          "timestamp": 656.0,
+          "image_path": "unique_ticker_frames/ticker_0196_t656.00s.jpg",
+          "extracted_text": "تھا تو سکھر نے ایک ہی بات کی تھی،"
+        },
+        {
+          "id": 197,
+          "timestamp": 660.0,
+          "image_path": "unique_ticker_frames/ticker_0197_t660.00s.jpg",
+          "extracted_text": "تھا تو سکھر نے ایک ہی بات کی تھی،"
+        },
+        {
+          "id": 198,
+          "timestamp": 664.0,
+          "image_path": "unique_ticker_frames/ticker_0198_t664.00s.jpg",
+          "extracted_text": "تھا تو سکھر نے ایک ہی بات کی تھی،"
+        },
+        {
+          "id": 199,
+          "timestamp": 666.0,
+          "image_path": "unique_ticker_frames/ticker_0199_t666.00s.jpg",
+          "extracted_text": "آٹھ گواہوں کی بات کا اظہار کیا"
+        },
+        {
+          "id": 200,
+          "timestamp": 670.0,
+          "image_path": "unique_ticker_frames/ticker_0200_t670.00s.jpg",
+          "extracted_text": "آٹھ گواہوں کی بات کا اظہار کیا"
+        },
+        {
+          "id": 201,
+          "timestamp": 674.0,
+          "image_path": "unique_ticker_frames/ticker_0201_t674.00s.jpg",
+          "extracted_text": "جب گواہوں کی بات کا اظہار کیا"
+        },
+        {
+          "id": 202,
+          "timestamp": 676.0,
+          "image_path": "unique_ticker_frames/ticker_0202_t676.00s.jpg",
+          "extracted_text": "آٹھ گواہوں کی بات کا اظہار کیا"
+        },
+        {
+          "id": 203,
+          "timestamp": 680.0,
+          "image_path": "unique_ticker_frames/ticker_0203_t680.00s.jpg",
+          "extracted_text": "اور کہا کہ اگر تم لوگوں نے یہ بات نہیں،"
+        },
+        {
+          "id": 204,
+          "timestamp": 684.0,
+          "image_path": "unique_ticker_frames/ticker_0204_t684.00s.jpg",
+          "extracted_text": "اور کہا کہ اگر تم لوگوں نے یہ بات نہیں،"
+        },
+        {
+          "id": 205,
+          "timestamp": 686.0,
+          "image_path": "unique_ticker_frames/ticker_0205_t686.00s.jpg",
+          "extracted_text": "اور کہا کہ اگر تم لوگوں نے یہ بات نہیں،"
+        },
+        {
+          "id": 206,
+          "timestamp": 690.0,
+          "image_path": "unique_ticker_frames/ticker_0206_t690.00s.jpg",
+          "extracted_text": "اور کہا کہ اگر تم لوگوں نے یہ بات نہیں،"
+        },
+        {
+          "id": 207,
+          "timestamp": 694.0,
+          "image_path": "unique_ticker_frames/ticker_0207_t694.00s.jpg",
+          "extracted_text": "اور کہا کہ اگر تم لوگوں نے یہ بات نہیں،"
+        },
+        {
+          "id": 208,
+          "timestamp": 696.0,
+          "image_path": "unique_ticker_frames/ticker_0208_t696.00s.jpg",
+          "extracted_text": "اور کہا کہ اگر تم لوگوں نے یہ بات نہیں،"
+        },
+        {
+          "id": 209,
+          "timestamp": 700.0,
+          "image_path": "unique_ticker_frames/ticker_0209_t700.00s.jpg",
+          "extracted_text": "اور کہا کہ اگر تم لوگوں نے یہ بات نہیں،"
+        },
+        {
+          "id": 210,
+          "timestamp": 704.0,
+          "image_path": "unique_ticker_frames/ticker_0210_t704.00s.jpg",
+          "extracted_text": "عالمی و ریجنل سطح پر سیاست، معیشت، تعلیم و صحت، ثقافت و کھیل و دیگر شعبوں پر عالمی کانفرنس"
+        },
+        {
+          "id": 211,
+          "timestamp": 706.0,
+          "image_path": "unique_ticker_frames/ticker_0211_t706.00s.jpg",
+          "extracted_text": "عالمی و ریجنل سطح پر سیاست، معیشت، تعلیم و صحت، ثقافت و کھیل و دیگر شعبوں پر عالمی کانفرنس"
+        },
+        {
+          "id": 212,
+          "timestamp": 710.0,
+          "image_path": "unique_ticker_frames/ticker_0212_t710.00s.jpg",
+          "extracted_text": "وزیر اعظم عمران خان نے اپنی کابینہ کو ایک بار پھر تبدیل کرنے کا فیصلہ کیا، وزراء کی کارکردگی"
+        },
+        {
+          "id": 213,
+          "timestamp": 714.0,
+          "image_path": "unique_ticker_frames/ticker_0213_t714.00s.jpg",
+          "extracted_text": "کو مد نظر رکھتے ہوئے تبدیلیوں کا فیصلہ، بعض اہم وزارتوں میں رد و بدل متوقع"
+        },
+        {
+          "id": 214,
+          "timestamp": 716.0,
+          "image_path": "unique_ticker_frames/ticker_0214_t716.00s.jpg",
+          "extracted_text": "صوبائی وزراء میں بھی تبدیلیاں متوقع، اس بار سخت اقدامات کیے جانے کا امکان"
+        },
+        {
+          "id": 215,
+          "timestamp": 720.0,
+          "image_path": "unique_ticker_frames/ticker_0215_t720.00s.jpg",
+          "extracted_text": "وزیر اعظم عمران خان نے آج وزراء سے اہم ملاقات کی، کارکردگی رپورٹس کا جائزہ لیا"
+        },
+        {
+          "id": 216,
+          "timestamp": 724.0,
+          "image_path": "unique_ticker_frames/ticker_0216_t724.00s.jpg",
+          "extracted_text": "اور گورننس کے معاملات پر بھی گفتگو ہوئی، وزیر اعظم نے متعدد وزراء کی کارکردگی پر عدم اطمینان کا اظہار کیا"
+        },
+        {
+          "id": 217,
+          "timestamp": 726.0,
+          "image_path": "unique_ticker_frames/ticker_0217_t726.00s.jpg",
+          "extracted_text": "حکومت کے اقدامات اور کارکردگی پر عوام کی رائے لی گئی، اطلاعات کے مطابق اس سروے میں حکومتی کارکردگی"
+        },
+        {
+          "id": 218,
+          "timestamp": 730.0,
+          "image_path": "unique_ticker_frames/ticker_0218_t730.00s.jpg",
+          "extracted_text": "کے حوالے سے عوام کا 65 فیصد عدم اطمینان سامنے آیا، حکومتی ذرائع"
+        },
+        {
+          "id": 219,
+          "timestamp": 734.0,
+          "image_path": "unique_ticker_frames/ticker_0219_t734.00s.jpg",
+          "extracted_text": "کے مطابق جلد ہی وفاقی کابینہ اور صوبائی وزراء میں تبدیلیاں کی جائیں گی"
+        },
+        {
+          "id": 220,
+          "timestamp": 736.0,
+          "image_path": "unique_ticker_frames/ticker_0220_t736.00s.jpg",
+          "extracted_text": "وزیر اعظم نے کہا ہے کہ اب عوام کو نتائج دیں گے، کارکردگی پر کوئی سمجھوتہ نہیں ہو گا"
+        },
+        {
+          "id": 221,
+          "timestamp": 740.0,
+          "image_path": "unique_ticker_frames/ticker_0221_t740.00s.jpg",
+          "extracted_text": "انہوں نے کہا کہ عوام کی فلاح و بہبود ہماری ترجیح ہے، اس کے لیے سخت فیصلے کرنا پڑیں گے"
+        },
+        {
+          "id": 222,
+          "timestamp": 744.0,
+          "image_path": "unique_ticker_frames/ticker_0222_t744.00s.jpg",
+          "extracted_text": "پاکستان میں توانائی کے بحران پر قابو پانے کے لیے اقدامات کیے جا رہے ہیں، وزیر توانائی"
+        },
+        {
+          "id": 223,
+          "timestamp": 746.0,
+          "image_path": "unique_ticker_frames/ticker_0223_t746.00s.jpg",
+          "extracted_text": "نے کہا کہ جلد ہی بجلی کی لوڈشیڈنگ کا خاتمہ ہو جائے گا"
+        },
+        {
+          "id": 224,
+          "timestamp": 750.0,
+          "image_path": "unique_ticker_frames/ticker_0224_t750.00s.jpg",
+          "extracted_text": "موسمیاتی تبدیلیوں کے اثرات سے نمٹنے کے لیے حکومتی اقدامات جاری ہیں، وزیر ماحولیات"
+        },
+        {
+          "id": 225,
+          "timestamp": 754.0,
+          "image_path": "unique_ticker_frames/ticker_0225_t754.00s.jpg",
+          "extracted_text": "نے کہا کہ ملک بھر میں شجر کاری مہم جاری ہے، عوام کو اس میں حصہ لینا چاہیے"
+        },
+        {
+          "id": 226,
+          "timestamp": 756.0,
+          "image_path": "unique_ticker_frames/ticker_0226_t756.00s.jpg",
+          "extracted_text": "پاکستان میں سیاحت کے فروغ کے لیے اقدامات کیے جا رہے ہیں، وزیر سیاحت"
+        },
+        {
+          "id": 227,
+          "timestamp": 760.0,
+          "image_path": "unique_ticker_frames/ticker_0227_t760.00s.jpg",
+          "extracted_text": "نے کہا کہ بیرونی سرمایہ کاروں کو پاکستان میں سرمایہ کاری کی دعوت دی جا رہی ہے"
+        },
+        {
+          "id": 228,
+          "timestamp": 764.0,
+          "image_path": "unique_ticker_frames/ticker_0228_t764.00s.jpg",
+          "extracted_text": "وزیراعظم نے عالمی برادری پر زور دیا ہے کہ کشمیر میں بھارتی مظالم کا نوٹس لیا جائے"
+        },
+        {
+          "id": 229,
+          "timestamp": 766.0,
+          "image_path": "unique_ticker_frames/ticker_0229_t766.00s.jpg",
+          "extracted_text": "انہوں نے کہا کہ کشمیری عوام کو ان کا حق خود ارادیت ملنا چاہیے"
+        },
+        {
+          "id": 230,
+          "timestamp": 770.0,
+          "image_path": "unique_ticker_frames/ticker_0230_t770.00s.jpg",
+          "extracted_text": "پاکستان میں کرونا وائرس کے کیسز میں کمی کا سلسلہ جاری ہے، نیشنل کمانڈ اینڈ آپریشن سینٹر"
+        },
+        {
+          "id": 231,
+          "timestamp": 774.0,
+          "image_path": "unique_ticker_frames/ticker_0231_t774.00s.jpg",
+          "extracted_text": "کے مطابق گزشتہ 24 گھنٹوں میں صرف 250 نئے کیسز رپورٹ ہوئے، 7 افراد ہلاک"
+        },
+        {
+          "id": 232,
+          "timestamp": 776.0,
+          "image_path": "unique_ticker_frames/ticker_0232_t776.00s.jpg",
+          "extracted_text": "ہوئے، صحتیاب ہونے والوں کی تعداد 530278 سے تجاوز کر گئی"
+        }
+      ],
+      "stitched_images": [
+        {
+          "filename": "stitched_tickers/stitched_000.jpg",
+          "num_frames": 50
+        },
+        {
+          "filename": "stitched_tickers/stitched_001.jpg",
+          "num_frames": 50
+        },
+        {
+          "filename": "stitched_tickers/stitched_002.jpg",
+          "num_frames": 50
+        },
+        {
+          "filename": "stitched_tickers/stitched_003.jpg",
+          "num_frames": 50
+        },
+        {
+          "filename": "stitched_tickers/stitched_004.jpg",
+          "num_frames": 33
+        }
+      ]
+    },
+    "chyron": {
+      "unique_frames_count": 243,
+      "unique_frames": [
+        {
+          "id": 0,
+          "timestamp": 0.0,
+          "image_path": "unique_chyron_frames/chyron_0000_t0.00s.jpg",
+          "extracted_text": "وزیر اعلی پنجاب مریم نواز کابیٹ کرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 1,
+          "timestamp": 2.0,
+          "image_path": "unique_chyron_frames/chyron_0001_t2.00s.jpg",
+          "extracted_text": "وزیر اعلی پنجاب مریم نواز کابیٹ کرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 2,
+          "timestamp": 4.0,
+          "image_path": "unique_chyron_frames/chyron_0002_t4.00s.jpg",
+          "extracted_text": "وزیر اعلی پنجاب مریم نواز کابیٹ کرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 3,
+          "timestamp": 8.0,
+          "image_path": "unique_chyron_frames/chyron_0003_t8.00s.jpg",
+          "extracted_text": "وزیر اعلی پنجاب مریم نواز کابیٹ کرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 4,
+          "timestamp": 10.0,
+          "image_path": "unique_chyron_frames/chyron_0004_t10.00s.jpg",
+          "extracted_text": "وزیر اعلی پنجاب مریم نواز کابیٹ کرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 5,
+          "timestamp": 14.0,
+          "image_path": "unique_chyron_frames/chyron_0005_t14.00s.jpg",
+          "extracted_text": "وزیر اعلی پنجاب مریم نواز کابیٹ کرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 6,
+          "timestamp": 16.0,
+          "image_path": "unique_chyron_frames/chyron_0006_t16.00s.jpg",
+          "extracted_text": "وزیر اعلی پنجاب مریم نواز کابیٹ کرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 7,
+          "timestamp": 20.0,
+          "image_path": "unique_chyron_frames/chyron_0007_t20.00s.jpg",
+          "extracted_text": "وزیر اعلی پنجاب مریم نواز کابیٹ کرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 8,
+          "timestamp": 22.0,
+          "image_path": "unique_chyron_frames/chyron_0008_t22.00s.jpg",
+          "extracted_text": "وزیر اعلی پنجاب مریم نواز کابیٹ کرول"
+        },
+        {
+          "id": 9,
+          "timestamp": 24.0,
+          "image_path": "unique_chyron_frames/chyron_0009_t24.00s.jpg",
+          "extracted_text": "وزیر اعلی پنجاب مریم نواز کابیٹ کرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 10,
+          "timestamp": 26.0,
+          "image_path": "unique_chyron_frames/chyron_0010_t26.00s.jpg",
+          "extracted_text": "وزیر اعلی پنجاب مریم نواز کابیٹ کرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 11,
+          "timestamp": 30.0,
+          "image_path": "unique_chyron_frames/chyron_0011_t30.00s.jpg",
+          "extracted_text": "وزیر اعلی پنجاب مریم نواز کابیٹ کرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 12,
+          "timestamp": 32.0,
+          "image_path": "unique_chyron_frames/chyron_0012_t32.00s.jpg",
+          "extracted_text": "وزیر اعلی پنجاب م"
+        },
+        {
+          "id": 13,
+          "timestamp": 34.0,
+          "image_path": "unique_chyron_frames/chyron_0013_t34.00s.jpg",
+          "extracted_text": "وزیر اعلی پنجاب مریم نواز کابیٹ کرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 14,
+          "timestamp": 38.0,
+          "image_path": "unique_chyron_frames/chyron_0014_t38.00s.jpg",
+          "extracted_text": "وزیر اعلی پنجاب مریم نواز کابیٹ کرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 15,
+          "timestamp": 42.0,
+          "image_path": "unique_chyron_frames/chyron_0015_t42.00s.jpg",
+          "extracted_text": "وزیر اعلی پنجاب مریم نواز کابیٹ کرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 16,
+          "timestamp": 46.0,
+          "image_path": "unique_chyron_frames/chyron_0016_t46.00s.jpg",
+          "extracted_text": "وزیر اعلی پنجاب مریم نواز کابیٹ کرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 17,
+          "timestamp": 48.0,
+          "image_path": "unique_chyron_frames/chyron_0017_t48.00s.jpg",
+          "extracted_text": "وزیر اعلی پنجاب مریم نواز کابیٹ کرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 18,
+          "timestamp": 54.0,
+          "image_path": "unique_chyron_frames/chyron_0018_t54.00s.jpg",
+          "extracted_text": "وزیر اعلی پنجاب مریم نواز کابیٹ کرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 19,
+          "timestamp": 58.0,
+          "image_path": "unique_chyron_frames/chyron_0019_t58.00s.jpg",
+          "extracted_text": "NO_TEXT"
+        },
+        {
+          "id": 20,
+          "timestamp": 60.0,
+          "image_path": "unique_chyron_frames/chyron_0020_t60.00s.jpg",
+          "extracted_text": "وزیر اعلی پنجاب مریم نواز کابیٹ کرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 21,
+          "timestamp": 64.0,
+          "image_path": "unique_chyron_frames/chyron_0021_t64.00s.jpg",
+          "extracted_text": "وزیر اعلی پنجاب مریم نواز کابیٹ کرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 22,
+          "timestamp": 68.0,
+          "image_path": "unique_chyron_frames/chyron_0022_t68.00s.jpg",
+          "extracted_text": "وزیر اعلی پنجاب مریم نواز کابیٹ کرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 23,
+          "timestamp": 70.0,
+          "image_path": "unique_chyron_frames/chyron_0023_t70.00s.jpg",
+          "extracted_text": "وزیر اعلی پنجاب مریم نواز کابیٹ کرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 24,
+          "timestamp": 76.0,
+          "image_path": "unique_chyron_frames/chyron_0024_t76.00s.jpg",
+          "extracted_text": "وزیر اعلی پنجاب مریم نواز کابیٹ کرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 25,
+          "timestamp": 82.0,
+          "image_path": "unique_chyron_frames/chyron_0025_t82.00s.jpg",
+          "extracted_text": "وزیر اعلی پنجاب مریم نواز کابیٹ کرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 26,
+          "timestamp": 86.0,
+          "image_path": "unique_chyron_frames/chyron_0026_t86.00s.jpg",
+          "extracted_text": "وزیر اعلی پنجاب مریم نواز کابیٹ کرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 27,
+          "timestamp": 90.0,
+          "image_path": "unique_chyron_frames/chyron_0027_t90.00s.jpg",
+          "extracted_text": "وزیر اعلی پنجاب مریم نواز کابیٹ کرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 28,
+          "timestamp": 92.0,
+          "image_path": "unique_chyron_frames/chyron_0028_t92.00s.jpg",
+          "extracted_text": "وزیر اعلی پنجاب مریم نواز کابیٹ کرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 29,
+          "timestamp": 94.0,
+          "image_path": "unique_chyron_frames/chyron_0029_t94.00s.jpg",
+          "extracted_text": " میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 30,
+          "timestamp": 96.0,
+          "image_path": "unique_chyron_frames/chyron_0030_t96.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینہ اجلاس میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 31,
+          "timestamp": 98.0,
+          "image_path": "unique_chyron_frames/chyron_0031_t98.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینہ اجلاس میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 32,
+          "timestamp": 102.0,
+          "image_path": "unique_chyron_frames/chyron_0032_t102.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینہ اجلاس میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 33,
+          "timestamp": 104.0,
+          "image_path": "unique_chyron_frames/chyron_0033_t104.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینہ اجلاس میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 34,
+          "timestamp": 108.0,
+          "image_path": "unique_chyron_frames/chyron_0034_t108.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینہ اجلاس میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 35,
+          "timestamp": 112.0,
+          "image_path": "unique_chyron_frames/chyron_0035_t112.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینہ اجلاس میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 36,
+          "timestamp": 114.0,
+          "image_path": "unique_chyron_frames/chyron_0036_t114.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینہ اجلاس میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 37,
+          "timestamp": 120.0,
+          "image_path": "unique_chyron_frames/chyron_0037_t120.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینہ اجلاس میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 38,
+          "timestamp": 122.0,
+          "image_path": "unique_chyron_frames/chyron_0038_t122.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینہ اجلاس میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 39,
+          "timestamp": 126.0,
+          "image_path": "unique_chyron_frames/chyron_0039_t126.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینہ اجلاس میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 40,
+          "timestamp": 130.0,
+          "image_path": "unique_chyron_frames/chyron_0040_t130.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینہ اجلاس میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 41,
+          "timestamp": 132.0,
+          "image_path": "unique_chyron_frames/chyron_0041_t132.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینہ اجلاس میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 42,
+          "timestamp": 134.0,
+          "image_path": "unique_chyron_frames/chyron_0042_t134.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینہ اجلاس میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 43,
+          "timestamp": 136.0,
+          "image_path": "unique_chyron_frames/chyron_0043_t136.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینہ اجلاس میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 44,
+          "timestamp": 140.0,
+          "image_path": "unique_chyron_frames/chyron_0044_t140.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینہ اجلاس میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 45,
+          "timestamp": 142.0,
+          "image_path": "unique_chyron_frames/chyron_0045_t142.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینہ اجلاس میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 46,
+          "timestamp": 148.0,
+          "image_path": "unique_chyron_frames/chyron_0046_t148.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینہ اجلاس میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 47,
+          "timestamp": 152.0,
+          "image_path": "unique_chyron_frames/chyron_0047_t152.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینہ اجلاس میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 48,
+          "timestamp": 156.0,
+          "image_path": "unique_chyron_frames/chyron_0048_t156.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینہ اجلاس میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 49,
+          "timestamp": 158.0,
+          "image_path": "unique_chyron_frames/chyron_0049_t158.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینہ اجلاس میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 50,
+          "timestamp": 164.0,
+          "image_path": "unique_chyron_frames/chyron_0050_t164.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینہ اجلاس میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 51,
+          "timestamp": 170.0,
+          "image_path": "unique_chyron_frames/chyron_0051_t170.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینہ اجلاس میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 52,
+          "timestamp": 174.0,
+          "image_path": "unique_chyron_frames/chyron_0052_t174.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینہ اجلاس میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 53,
+          "timestamp": 178.0,
+          "image_path": "unique_chyron_frames/chyron_0053_t178.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینہ اجلاس میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 54,
+          "timestamp": 180.0,
+          "image_path": "unique_chyron_frames/chyron_0054_t180.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینہ اجلاس میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 55,
+          "timestamp": 186.0,
+          "image_path": "unique_chyron_frames/chyron_0055_t186.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینہ اجلاس میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 56,
+          "timestamp": 190.0,
+          "image_path": "unique_chyron_frames/chyron_0056_t190.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینہ اجلاس میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 57,
+          "timestamp": 192.0,
+          "image_path": "unique_chyron_frames/chyron_0057_t192.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینہ اجلاس میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 58,
+          "timestamp": 194.0,
+          "image_path": "unique_chyron_frames/chyron_0058_t194.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینہ اجلاس میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 59,
+          "timestamp": 196.0,
+          "image_path": "unique_chyron_frames/chyron_0059_t196.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینہ اجلاس میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 60,
+          "timestamp": 198.0,
+          "image_path": "unique_chyron_frames/chyron_0060_t198.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ کاول ڈم میں اجتماعی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 61,
+          "timestamp": 200.0,
+          "image_path": "unique_chyron_frames/chyron_0061_t200.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ کاول ڈم میں اجتماعی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 62,
+          "timestamp": 202.0,
+          "image_path": "unique_chyron_frames/chyron_0062_t202.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ کاول ڈم میں اجتماعی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 63,
+          "timestamp": 208.0,
+          "image_path": "unique_chyron_frames/chyron_0063_t208.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ کاول ڈم میں اجتماعی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 64,
+          "timestamp": 214.0,
+          "image_path": "unique_chyron_frames/chyron_0064_t214.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ کاول ڈم میں اجتماعی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 65,
+          "timestamp": 218.0,
+          "image_path": "unique_chyron_frames/chyron_0065_t218.00s.jpg",
+          "extracted_text": "NO_TEXT"
+        },
+        {
+          "id": 66,
+          "timestamp": 220.0,
+          "image_path": "unique_chyron_frames/chyron_0066_t220.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ کاول ڈم میں اجتماعی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 67,
+          "timestamp": 222.0,
+          "image_path": "unique_chyron_frames/chyron_0067_t222.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ کاول ڈم میں اجتماعی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 68,
+          "timestamp": 224.0,
+          "image_path": "unique_chyron_frames/chyron_0068_t224.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ کاول ڈم میں اجتماعی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 69,
+          "timestamp": 228.0,
+          "image_path": "unique_chyron_frames/chyron_0069_t228.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ کاول ڈم میں اجتماعی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 70,
+          "timestamp": 230.0,
+          "image_path": "unique_chyron_frames/chyron_0070_t230.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ کاول ڈم میں اجتماعی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 71,
+          "timestamp": 234.0,
+          "image_path": "unique_chyron_frames/chyron_0071_t234.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ کاول ڈم میں اجتماعی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 72,
+          "timestamp": 236.0,
+          "image_path": "unique_chyron_frames/chyron_0072_t236.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ کاول ڈم میں اجتماعی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 73,
+          "timestamp": 240.0,
+          "image_path": "unique_chyron_frames/chyron_0073_t240.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ کاول ڈم میں اجتماعی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 74,
+          "timestamp": 244.0,
+          "image_path": "unique_chyron_frames/chyron_0074_t244.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ کاول ڈم میں اجتماعی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 75,
+          "timestamp": 246.0,
+          "image_path": "unique_chyron_frames/chyron_0075_t246.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ کاول ڈم میں اجتماعی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 76,
+          "timestamp": 252.0,
+          "image_path": "unique_chyron_frames/chyron_0076_t252.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ کاول ڈم میں اجتماعی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 77,
+          "timestamp": 254.0,
+          "image_path": "unique_chyron_frames/chyron_0077_t254.00s.jpg",
+          "extracted_text": "NO_TEXT"
+        },
+        {
+          "id": 78,
+          "timestamp": 256.0,
+          "image_path": "unique_chyron_frames/chyron_0078_t256.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ کاول ڈم میں اجتماعی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 79,
+          "timestamp": 258.0,
+          "image_path": "unique_chyron_frames/chyron_0079_t258.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ کاول ڈم میں اجتماعی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 80,
+          "timestamp": 262.0,
+          "image_path": "unique_chyron_frames/chyron_0080_t262.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ کاول ڈم میں اجتماعی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 81,
+          "timestamp": 266.0,
+          "image_path": "unique_chyron_frames/chyron_0081_t266.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ کاول ڈم میں اجتماعی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 82,
+          "timestamp": 268.0,
+          "image_path": "unique_chyron_frames/chyron_0082_t268.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ کاول ڈم میں اجتماعی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 83,
+          "timestamp": 274.0,
+          "image_path": "unique_chyron_frames/chyron_0083_t274.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ کاول ڈم میں اجتماعی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 84,
+          "timestamp": 278.0,
+          "image_path": "unique_chyron_frames/chyron_0084_t278.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ کاول ڈم میں اجتماعی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 85,
+          "timestamp": 280.0,
+          "image_path": "unique_chyron_frames/chyron_0085_t280.00s.jpg",
+          "extracted_text": "NO_TEXT"
+        },
+        {
+          "id": 86,
+          "timestamp": 282.0,
+          "image_path": "unique_chyron_frames/chyron_0086_t282.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ کاول ڈم میں اجتماعی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 87,
+          "timestamp": 284.0,
+          "image_path": "unique_chyron_frames/chyron_0087_t284.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ کاول ڈم میں اجتماعی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 88,
+          "timestamp": 288.0,
+          "image_path": "unique_chyron_frames/chyron_0088_t288.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ کاول ڈم میں اجتماعی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 89,
+          "timestamp": 290.0,
+          "image_path": "unique_chyron_frames/chyron_0089_t290.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ"
+        },
+        {
+          "id": 90,
+          "timestamp": 294.0,
+          "image_path": "unique_chyron_frames/chyron_0090_t294.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا لالیفٹ کنٹروں پر دم میں اخیاقی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 91,
+          "timestamp": 296.0,
+          "image_path": "unique_chyron_frames/chyron_0091_t296.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا لالیفٹ کنٹروں پر دم میں اخیاقی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 92,
+          "timestamp": 300.0,
+          "image_path": "unique_chyron_frames/chyron_0092_t300.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا لالیفٹ کنٹروں پر دم میں اخیاقی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 93,
+          "timestamp": 302.0,
+          "image_path": "unique_chyron_frames/chyron_0093_t302.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا لالیفٹ کنٹروں پر دم میں اخیاقی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 94,
+          "timestamp": 306.0,
+          "image_path": "unique_chyron_frames/chyron_0094_t306.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا لالیفٹ کنٹروں پر دم میں اخیاقی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 95,
+          "timestamp": 310.0,
+          "image_path": "unique_chyron_frames/chyron_0095_t310.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا لالیفٹ کنٹروں پر دم میں اخیاقی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 96,
+          "timestamp": 312.0,
+          "image_path": "unique_chyron_frames/chyron_0096_t312.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا لالیفٹ کنٹروں پر دم میں اخیاقی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 97,
+          "timestamp": 316.0,
+          "image_path": "unique_chyron_frames/chyron_0097_t316.00s.jpg",
+          "extracted_text": "NO_TEXT"
+        },
+        {
+          "id": 98,
+          "timestamp": 318.0,
+          "image_path": "unique_chyron_frames/chyron_0098_t318.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا لالیفٹ کنٹروں پر دم میں اخیاقی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 99,
+          "timestamp": 322.0,
+          "image_path": "unique_chyron_frames/chyron_0099_t322.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا لالیفٹ کنٹروں پر دم میں اخیاقی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 100,
+          "timestamp": 324.0,
+          "image_path": "unique_chyron_frames/chyron_0100_t324.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا لالیفٹ کنٹروں پر دم میں اخیاقی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 101,
+          "timestamp": 328.0,
+          "image_path": "unique_chyron_frames/chyron_0101_t328.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا لالیفٹ کنٹروں پر دم میں اخیاقی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 102,
+          "timestamp": 332.0,
+          "image_path": "unique_chyron_frames/chyron_0102_t332.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا لالیفٹ کنٹروں پر دم میں اخیاقی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 103,
+          "timestamp": 334.0,
+          "image_path": "unique_chyron_frames/chyron_0103_t334.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا لالیفٹ کنٹروں پر دم میں اخیاقی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 104,
+          "timestamp": 338.0,
+          "image_path": "unique_chyron_frames/chyron_0104_t338.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا لالیفٹ کنٹروں پر دم میں اخیاقی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 105,
+          "timestamp": 340.0,
+          "image_path": "unique_chyron_frames/chyron_0105_t340.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا لالیفٹ کنٹروں پر دم میں اخیاقی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 106,
+          "timestamp": 342.0,
+          "image_path": "unique_chyron_frames/chyron_0106_t342.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا لالیفٹ کنٹروں پر دم میں اخیاقی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 107,
+          "timestamp": 346.0,
+          "image_path": "unique_chyron_frames/chyron_0107_t346.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا لالیفٹ کنٹروں پر دم میں اخیاقی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 108,
+          "timestamp": 350.0,
+          "image_path": "unique_chyron_frames/chyron_0108_t350.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا لالیفٹ کنٹروں پر دم میں اخیاقی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 109,
+          "timestamp": 352.0,
+          "image_path": "unique_chyron_frames/chyron_0109_t352.00s.jpg",
+          "extracted_text": "NO_TEXT"
+        },
+        {
+          "id": 110,
+          "timestamp": 354.0,
+          "image_path": "unique_chyron_frames/chyron_0110_t354.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا لالیفٹ کنٹروں پر دم میں اخیاقی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 111,
+          "timestamp": 356.0,
+          "image_path": "unique_chyron_frames/chyron_0111_t356.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا لالیفٹ کنٹروں پر دم میں اخیاقی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 112,
+          "timestamp": 360.0,
+          "image_path": "unique_chyron_frames/chyron_0112_t360.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا لالیفٹ کنٹروں پر دم میں اخیاقی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 113,
+          "timestamp": 362.0,
+          "image_path": "unique_chyron_frames/chyron_0113_t362.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا لالیفٹ کنٹروں پر دم میں اخیاقی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 114,
+          "timestamp": 366.0,
+          "image_path": "unique_chyron_frames/chyron_0114_t366.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا لالیفٹ کنٹروں پر دم میں اخیاقی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 115,
+          "timestamp": 368.0,
+          "image_path": "unique_chyron_frames/chyron_0115_t368.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا لالیفٹ کنٹروں پر دم میں اخیاقی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 116,
+          "timestamp": 372.0,
+          "image_path": "unique_chyron_frames/chyron_0116_t372.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا لالیفٹ کنٹروں پر دم میں اخیاقی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 117,
+          "timestamp": 376.0,
+          "image_path": "unique_chyron_frames/chyron_0117_t376.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا لالیفٹ کنٹروں پر دم میں اخیاقی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 118,
+          "timestamp": 378.0,
+          "image_path": "unique_chyron_frames/chyron_0118_t378.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا لالیفٹ کنٹروں پر دم میں اخیاقی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 119,
+          "timestamp": 380.0,
+          "image_path": "unique_chyron_frames/chyron_0119_t380.00s.jpg",
+          "extracted_text": "NO_TEXT"
+        },
+        {
+          "id": 120,
+          "timestamp": 384.0,
+          "image_path": "unique_chyron_frames/chyron_0120_t384.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ اجلاس میں انتظامی و ترقیاتی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 121,
+          "timestamp": 388.0,
+          "image_path": "unique_chyron_frames/chyron_0121_t388.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ اجلاس میں انتظامی و ترقیاتی"
+        },
+        {
+          "id": 122,
+          "timestamp": 390.0,
+          "image_path": "unique_chyron_frames/chyron_0122_t390.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ اجلاس میں انتظامی و ترقیاتی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 123,
+          "timestamp": 394.0,
+          "image_path": "unique_chyron_frames/chyron_0123_t394.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ اجلاس میں انتظامی و ترقیاتی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 124,
+          "timestamp": 398.0,
+          "image_path": "unique_chyron_frames/chyron_0124_t398.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ اجلاس میں انتظامی و ترقیاتی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 125,
+          "timestamp": 400.0,
+          "image_path": "unique_chyron_frames/chyron_0125_t400.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ اجلاس میں انتظامی و ترقیاتی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 126,
+          "timestamp": 404.0,
+          "image_path": "unique_chyron_frames/chyron_0126_t404.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ اجلاس میں انتظامی و ترقیاتی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 127,
+          "timestamp": 406.0,
+          "image_path": "unique_chyron_frames/chyron_0127_t406.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ اجلاس میں انتظامی و ترقیاتی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 128,
+          "timestamp": 414.0,
+          "image_path": "unique_chyron_frames/chyron_0128_t414.00s.jpg",
+          "extracted_text": "NO_TEXT"
+        },
+        {
+          "id": 129,
+          "timestamp": 416.0,
+          "image_path": "unique_chyron_frames/chyron_0129_t416.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ اجلاس میں انتظامی و ترقیاتی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 130,
+          "timestamp": 418.0,
+          "image_path": "unique_chyron_frames/chyron_0130_t418.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ اجلاس میں انتظامی و ترقیاتی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 131,
+          "timestamp": 420.0,
+          "image_path": "unique_chyron_frames/chyron_0131_t420.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ اجلاس میں انتظامی و ترقیاتی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 132,
+          "timestamp": 422.0,
+          "image_path": "unique_chyron_frames/chyron_0132_t422.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ اجلاس میں انتظامی و ترقیاتی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 133,
+          "timestamp": 426.0,
+          "image_path": "unique_chyron_frames/chyron_0133_t426.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ اجلاس میں انتظامی و ترقیاتی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 134,
+          "timestamp": 428.0,
+          "image_path": "unique_chyron_frames/chyron_0134_t428.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ اجلاس میں انتظامی و ترقیاتی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 135,
+          "timestamp": 434.0,
+          "image_path": "unique_chyron_frames/chyron_0135_t434.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ اجلاس میں انتظامی و ترقیاتی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 136,
+          "timestamp": 438.0,
+          "image_path": "unique_chyron_frames/chyron_0136_t438.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ اجلاس میں انتظامی و ترقیاتی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 137,
+          "timestamp": 440.0,
+          "image_path": "unique_chyron_frames/chyron_0137_t440.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ اجلاس میں انتظامی و ترقیاتی"
+        },
+        {
+          "id": 138,
+          "timestamp": 442.0,
+          "image_path": "unique_chyron_frames/chyron_0138_t442.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ اجلاس میں انتظامی و ترقیاتی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 139,
+          "timestamp": 444.0,
+          "image_path": "unique_chyron_frames/chyron_0139_t444.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ اجلاس میں انتظامی و ترقیاتی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 140,
+          "timestamp": 448.0,
+          "image_path": "unique_chyron_frames/chyron_0140_t448.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ اجلاس میں انتظامی و ترقیاتی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 141,
+          "timestamp": 450.0,
+          "image_path": "unique_chyron_frames/chyron_0141_t450.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم"
+        },
+        {
+          "id": 142,
+          "timestamp": 452.0,
+          "image_path": "unique_chyron_frames/chyron_0142_t452.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ اجلاس میں انتظامی و ترقیاتی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 143,
+          "timestamp": 456.0,
+          "image_path": "unique_chyron_frames/chyron_0143_t456.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ اجلاس میں انتظامی و ترقیاتی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 144,
+          "timestamp": 460.0,
+          "image_path": "unique_chyron_frames/chyron_0144_t460.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ اجلاس میں انتظامی و ترقیاتی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 145,
+          "timestamp": 464.0,
+          "image_path": "unique_chyron_frames/chyron_0145_t464.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ اجلاس میں انتظامی و ترقیاتی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 146,
+          "timestamp": 466.0,
+          "image_path": "unique_chyron_frames/chyron_0146_t466.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ اجلاس میں انتظامی و ترقیاتی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 147,
+          "timestamp": 472.0,
+          "image_path": "unique_chyron_frames/chyron_0147_t472.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ اجلاس میں انتظامی و ترقیاتی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 148,
+          "timestamp": 476.0,
+          "image_path": "unique_chyron_frames/chyron_0148_t476.00s.jpg",
+          "extracted_text": "NO_TEXT"
+        },
+        {
+          "id": 149,
+          "timestamp": 478.0,
+          "image_path": "unique_chyron_frames/chyron_0149_t478.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کابینٹ اجلاس میں انتظامی و ترقیاتی اقدامات پر اظہار خیال"
+        },
+        {
+          "id": 150,
+          "timestamp": 482.0,
+          "image_path": "unique_chyron_frames/chyron_0150_t482.00s.jpg",
+          "extracted_text": "پورٹ: وزیر اعلیٰ پنجاب مریم نواز کابینٹ گجرانوالہ و دیگر میں انتخابی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 151,
+          "timestamp": 486.0,
+          "image_path": "unique_chyron_frames/chyron_0151_t486.00s.jpg",
+          "extracted_text": "پورٹ: وزیر اعلیٰ پنجاب مریم نواز کابینٹ گجرانوالہ و دیگر میں انتخابی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 152,
+          "timestamp": 488.0,
+          "image_path": "unique_chyron_frames/chyron_0152_t488.00s.jpg",
+          "extracted_text": "پورٹ: وزیر اعلیٰ پنجاب مریم نواز کابینٹ گجرانوالہ و دیگر میں انتخابی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 153,
+          "timestamp": 494.0,
+          "image_path": "unique_chyron_frames/chyron_0153_t494.00s.jpg",
+          "extracted_text": "پورٹ: وزیر اعلیٰ پنجاب مریم نواز کابینٹ گجرانوالہ و دیگر میں انتخابی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 154,
+          "timestamp": 498.0,
+          "image_path": "unique_chyron_frames/chyron_0154_t498.00s.jpg",
+          "extracted_text": "پورٹ: وزیر اعلیٰ پنجاب مریم نواز کابینٹ گجرانوالہ و دیگر میں انتخابی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 155,
+          "timestamp": 500.0,
+          "image_path": "unique_chyron_frames/chyron_0155_t500.00s.jpg",
+          "extracted_text": "پورٹ: وزیر اعلیٰ پنجاب مریم نواز کابینٹ گجرانوالہ و دیگر میں انتخابی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 156,
+          "timestamp": 504.0,
+          "image_path": "unique_chyron_frames/chyron_0156_t504.00s.jpg",
+          "extracted_text": "پورٹ: وزیر اعلیٰ پنجاب مریم نواز کابینٹ گجرانوالہ و دیگر میں انتخابی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 157,
+          "timestamp": 508.0,
+          "image_path": "unique_chyron_frames/chyron_0157_t508.00s.jpg",
+          "extracted_text": "پورٹ: وزیر اعلیٰ پنجاب مریم نواز کابینٹ گجرانوالہ و دیگر میں انتخابی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 158,
+          "timestamp": 510.0,
+          "image_path": "unique_chyron_frames/chyron_0158_t510.00s.jpg",
+          "extracted_text": "پورٹ: وزیر اعلیٰ پنجاب مریم نواز کابینٹ گجرانوالہ و دیگر میں انتخابی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 159,
+          "timestamp": 512.0,
+          "image_path": "unique_chyron_frames/chyron_0159_t512.00s.jpg",
+          "extracted_text": "ت: وزیر اعلیٰ پنجاب مریم نواز کابینٹ گجرانوالہ و دیگر میں انتخابی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 160,
+          "timestamp": 514.0,
+          "image_path": "unique_chyron_frames/chyron_0160_t514.00s.jpg",
+          "extracted_text": "پورٹ: وزیر اعلیٰ پنجاب مریم نواز کابینٹ گجرانوالہ و دیگر میں انتخابی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 161,
+          "timestamp": 516.0,
+          "image_path": "unique_chyron_frames/chyron_0161_t516.00s.jpg",
+          "extracted_text": "پورٹ: وزیر اعلیٰ پنجاب مریم نواز کابینٹ گجرانوالہ و دیگر میں انتخابی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 162,
+          "timestamp": 522.0,
+          "image_path": "unique_chyron_frames/chyron_0162_t522.00s.jpg",
+          "extracted_text": "پورٹ: وزیر اعلیٰ پنجاب مریم نواز کابینٹ گجرانوالہ و دیگر میں انتخابی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 163,
+          "timestamp": 526.0,
+          "image_path": "unique_chyron_frames/chyron_0163_t526.00s.jpg",
+          "extracted_text": "پورٹ: وزیر اعلیٰ پنجاب مریم نواز کابینٹ گجرانوالہ و دیگر میں انتخابی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 164,
+          "timestamp": 530.0,
+          "image_path": "unique_chyron_frames/chyron_0164_t530.00s.jpg",
+          "extracted_text": "پورٹ: وزیر اعلیٰ پنجاب مریم نواز کابینٹ گجرانوالہ و دیگر میں انتخابی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 165,
+          "timestamp": 532.0,
+          "image_path": "unique_chyron_frames/chyron_0165_t532.00s.jpg",
+          "extracted_text": "پورٹ: وزیر اعلیٰ پنجاب مریم نواز کابینٹ گجرانوالہ و دیگر میں انتخابی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 166,
+          "timestamp": 538.0,
+          "image_path": "unique_chyron_frames/chyron_0166_t538.00s.jpg",
+          "extracted_text": "پنجاب مریم نواز کابینٹ گجرانوالہ و دیگر میں انتخابی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 167,
+          "timestamp": 540.0,
+          "image_path": "unique_chyron_frames/chyron_0167_t540.00s.jpg",
+          "extracted_text": "پورٹ: وزیر اعلیٰ پنجاب مریم نواز کابینٹ گجرانوالہ و دیگر میں انتخابی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 168,
+          "timestamp": 544.0,
+          "image_path": "unique_chyron_frames/chyron_0168_t544.00s.jpg",
+          "extracted_text": "پورٹ: وزیر اعلیٰ پنجاب مریم نواز کابینٹ گجرانوالہ و دیگر میں انتخابی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 169,
+          "timestamp": 548.0,
+          "image_path": "unique_chyron_frames/chyron_0169_t548.00s.jpg",
+          "extracted_text": "مریم نواز کابینٹ گجرانوالہ و دیگر میں انتخابی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 170,
+          "timestamp": 550.0,
+          "image_path": "unique_chyron_frames/chyron_0170_t550.00s.jpg",
+          "extracted_text": "پورٹ: وزیر اعلیٰ پنجاب مریم نواز کابینٹ گجرانوالہ و دیگر میں انتخابی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 171,
+          "timestamp": 552.0,
+          "image_path": "unique_chyron_frames/chyron_0171_t552.00s.jpg",
+          "extracted_text": "پورٹ: وزیر اعلیٰ پنجاب مریم نواز کابینٹ گجرانوالہ و دیگر میں انتخابی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 172,
+          "timestamp": 554.0,
+          "image_path": "unique_chyron_frames/chyron_0172_t554.00s.jpg",
+          "extracted_text": "پورٹ: وزیر اعلیٰ پنجاب مریم نواز کابینٹ گجرانوالہ و دیگر میں انتخابی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 173,
+          "timestamp": 560.0,
+          "image_path": "unique_chyron_frames/chyron_0173_t560.00s.jpg",
+          "extracted_text": "پورٹ: وزیر اعلیٰ پنجاب مریم نواز کابینٹ گجرانوالہ و دیگر میں انتخابی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 174,
+          "timestamp": 564.0,
+          "image_path": "unique_chyron_frames/chyron_0174_t564.00s.jpg",
+          "extracted_text": "پورٹ: وزیر اعلیٰ پنجاب مریم نواز کابینٹ گجرانوالہ و دیگر میں انتخابی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 175,
+          "timestamp": 566.0,
+          "image_path": "unique_chyron_frames/chyron_0175_t566.00s.jpg",
+          "extracted_text": "پورٹ: وزیر اعلیٰ پنجاب مریم نواز کابینٹ گجرانوالہ و دیگر میں انتخابی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 176,
+          "timestamp": 570.0,
+          "image_path": "unique_chyron_frames/chyron_0176_t570.00s.jpg",
+          "extracted_text": "پورٹ: وزیر اعلیٰ پنجاب مریم نواز کابینٹ گجرانوالہ و دیگر میں انتخابی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 177,
+          "timestamp": 574.0,
+          "image_path": "unique_chyron_frames/chyron_0177_t574.00s.jpg",
+          "extracted_text": "ٹ گجرانوالہ و دیگر میں انتخابی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 178,
+          "timestamp": 576.0,
+          "image_path": "unique_chyron_frames/chyron_0178_t576.00s.jpg",
+          "extracted_text": "پورٹ: وزیر اعلیٰ پنجاب مریم نواز کابینٹ گجرانوالہ و دیگر میں انتخابی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 179,
+          "timestamp": 582.0,
+          "image_path": "unique_chyron_frames/chyron_0179_t582.00s.jpg",
+          "extracted_text": "پورٹ: وزیر اعلیٰ پنجاب مریم نواز کابینٹ گجرانوالہ و دیگر میں انتخابی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 180,
+          "timestamp": 586.0,
+          "image_path": "unique_chyron_frames/chyron_0180_t586.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب محرم اوکاژینٹ کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 181,
+          "timestamp": 588.0,
+          "image_path": "unique_chyron_frames/chyron_0181_t588.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب محرم اوکاژینٹ کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 182,
+          "timestamp": 592.0,
+          "image_path": "unique_chyron_frames/chyron_0182_t592.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب محرم اوکاژینٹ کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 183,
+          "timestamp": 596.0,
+          "image_path": "unique_chyron_frames/chyron_0183_t596.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب محرم اوکاژینٹ کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 184,
+          "timestamp": 598.0,
+          "image_path": "unique_chyron_frames/chyron_0184_t598.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب محرم اوکاژینٹ کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 185,
+          "timestamp": 604.0,
+          "image_path": "unique_chyron_frames/chyron_0185_t604.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب محرم اوکاژینٹ کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 186,
+          "timestamp": 608.0,
+          "image_path": "unique_chyron_frames/chyron_0186_t608.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب محرم اوکاژینٹ کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 187,
+          "timestamp": 610.0,
+          "image_path": "unique_chyron_frames/chyron_0187_t610.00s.jpg",
+          "extracted_text": "NO_TEXT"
+        },
+        {
+          "id": 188,
+          "timestamp": 612.0,
+          "image_path": "unique_chyron_frames/chyron_0188_t612.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب محرم اوکاژینٹ کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 189,
+          "timestamp": 614.0,
+          "image_path": "unique_chyron_frames/chyron_0189_t614.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب محرم اوکاژینٹ کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 190,
+          "timestamp": 618.0,
+          "image_path": "unique_chyron_frames/chyron_0190_t618.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب محرم اوکاژینٹ کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 191,
+          "timestamp": 620.0,
+          "image_path": "unique_chyron_frames/chyron_0191_t620.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب محرم اوکاژینٹ کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 192,
+          "timestamp": 626.0,
+          "image_path": "unique_chyron_frames/chyron_0192_t626.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب محرم اوکاژینٹ کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 193,
+          "timestamp": 630.0,
+          "image_path": "unique_chyron_frames/chyron_0193_t630.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب محرم اوکاژینٹ کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 194,
+          "timestamp": 632.0,
+          "image_path": "unique_chyron_frames/chyron_0194_t632.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب محرم اوکاژینٹ کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 195,
+          "timestamp": 636.0,
+          "image_path": "unique_chyron_frames/chyron_0195_t636.00s.jpg",
+          "extracted_text": "NO_TEXT"
+        },
+        {
+          "id": 196,
+          "timestamp": 638.0,
+          "image_path": "unique_chyron_frames/chyron_0196_t638.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب محرم اوکاژینٹ کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 197,
+          "timestamp": 640.0,
+          "image_path": "unique_chyron_frames/chyron_0197_t640.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب محرم اوکاژینٹ کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 198,
+          "timestamp": 642.0,
+          "image_path": "unique_chyron_frames/chyron_0198_t642.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب محرم اوکاژینٹ کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 199,
+          "timestamp": 646.0,
+          "image_path": "unique_chyron_frames/chyron_0199_t646.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب محرم اوکاژینٹ کنٹرول روم"
+        },
+        {
+          "id": 200,
+          "timestamp": 648.0,
+          "image_path": "unique_chyron_frames/chyron_0200_t648.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب محرم اوکاژینٹ کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 201,
+          "timestamp": 652.0,
+          "image_path": "unique_chyron_frames/chyron_0201_t652.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب محرم اوکاژینٹ کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 202,
+          "timestamp": 654.0,
+          "image_path": "unique_chyron_frames/chyron_0202_t654.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب محرم اوکاژینٹ کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 203,
+          "timestamp": 658.0,
+          "image_path": "unique_chyron_frames/chyron_0203_t658.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب محرم اوکاژینٹ کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 204,
+          "timestamp": 662.0,
+          "image_path": "unique_chyron_frames/chyron_0204_t662.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب محرم اوکاژینٹ کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 205,
+          "timestamp": 664.0,
+          "image_path": "unique_chyron_frames/chyron_0205_t664.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب محرم اوکاژینٹ کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 206,
+          "timestamp": 668.0,
+          "image_path": "unique_chyron_frames/chyron_0206_t668.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب محرم اوکاژینٹ کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 207,
+          "timestamp": 670.0,
+          "image_path": "unique_chyron_frames/chyron_0207_t670.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب محرم اوکاژینٹ کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 208,
+          "timestamp": 672.0,
+          "image_path": "unique_chyron_frames/chyron_0208_t672.00s.jpg",
+          "extracted_text": "NO_TEXT"
+        },
+        {
+          "id": 209,
+          "timestamp": 674.0,
+          "image_path": "unique_chyron_frames/chyron_0209_t674.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب محرم اوکاژینٹ کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 210,
+          "timestamp": 676.0,
+          "image_path": "unique_chyron_frames/chyron_0210_t676.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا ہسپتال کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 211,
+          "timestamp": 680.0,
+          "image_path": "unique_chyron_frames/chyron_0211_t680.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا ہسپتال کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 212,
+          "timestamp": 684.0,
+          "image_path": "unique_chyron_frames/chyron_0212_t684.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا ہسپتال کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 213,
+          "timestamp": 686.0,
+          "image_path": "unique_chyron_frames/chyron_0213_t686.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا ہسپتال کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 214,
+          "timestamp": 690.0,
+          "image_path": "unique_chyron_frames/chyron_0214_t690.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا ہسپتال کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 215,
+          "timestamp": 692.0,
+          "image_path": "unique_chyron_frames/chyron_0215_t692.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا ہسپتال کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 216,
+          "timestamp": 696.0,
+          "image_path": "unique_chyron_frames/chyron_0216_t696.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا ہسپتال کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 217,
+          "timestamp": 698.0,
+          "image_path": "unique_chyron_frames/chyron_0217_t698.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا ہسپتال کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 218,
+          "timestamp": 700.0,
+          "image_path": "unique_chyron_frames/chyron_0218_t700.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا ہسپتال کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 219,
+          "timestamp": 702.0,
+          "image_path": "unique_chyron_frames/chyron_0219_t702.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا ہسپتال کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 220,
+          "timestamp": 706.0,
+          "image_path": "unique_chyron_frames/chyron_0220_t706.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا ہسپتال کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 221,
+          "timestamp": 708.0,
+          "image_path": "unique_chyron_frames/chyron_0221_t708.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم"
+        },
+        {
+          "id": 222,
+          "timestamp": 712.0,
+          "image_path": "unique_chyron_frames/chyron_0222_t712.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا ہسپتال کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 223,
+          "timestamp": 714.0,
+          "image_path": "unique_chyron_frames/chyron_0223_t714.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا ہسپتال کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 224,
+          "timestamp": 718.0,
+          "image_path": "unique_chyron_frames/chyron_0224_t718.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا ہسپتال کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 225,
+          "timestamp": 720.0,
+          "image_path": "unique_chyron_frames/chyron_0225_t720.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا ہسپتال کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 226,
+          "timestamp": 724.0,
+          "image_path": "unique_chyron_frames/chyron_0226_t724.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا ہسپتال کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 227,
+          "timestamp": 728.0,
+          "image_path": "unique_chyron_frames/chyron_0227_t728.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا ہسپتال کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 228,
+          "timestamp": 730.0,
+          "image_path": "unique_chyron_frames/chyron_0228_t730.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا ہسپتال کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 229,
+          "timestamp": 734.0,
+          "image_path": "unique_chyron_frames/chyron_0229_t734.00s.jpg",
+          "extracted_text": "NO_TEXT"
+        },
+        {
+          "id": 230,
+          "timestamp": 736.0,
+          "image_path": "unique_chyron_frames/chyron_0230_t736.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا ہسپتال کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 231,
+          "timestamp": 740.0,
+          "image_path": "unique_chyron_frames/chyron_0231_t740.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا ہسپتال کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 232,
+          "timestamp": 742.0,
+          "image_path": "unique_chyron_frames/chyron_0232_t742.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا ہسپتال کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 233,
+          "timestamp": 746.0,
+          "image_path": "unique_chyron_frames/chyron_0233_t746.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا ہسپتال کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 234,
+          "timestamp": 750.0,
+          "image_path": "unique_chyron_frames/chyron_0234_t750.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا ہسپتال کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 235,
+          "timestamp": 752.0,
+          "image_path": "unique_chyron_frames/chyron_0235_t752.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا ہسپتال کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 236,
+          "timestamp": 756.0,
+          "image_path": "unique_chyron_frames/chyron_0236_t756.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا ہسپتال کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 237,
+          "timestamp": 758.0,
+          "image_path": "unique_chyron_frames/chyron_0237_t758.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا ہسپتال کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 238,
+          "timestamp": 766.0,
+          "image_path": "unique_chyron_frames/chyron_0238_t766.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا ہسپتال کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 239,
+          "timestamp": 768.0,
+          "image_path": "unique_chyron_frames/chyron_0239_t768.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا ہسپتال کنٹرول روم میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 240,
+          "timestamp": 770.0,
+          "image_path": "unique_chyron_frames/chyron_0240_t770.00s.jpg",
+          "extracted_text": "NO_TEXT"
+        },
+        {
+          "id": 241,
+          "timestamp": 772.0,
+          "image_path": "unique_chyron_frames/chyron_0241_t772.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا کابینہ اجلاس میں احتیاطی تدابیر پر اظہار خیال"
+        },
+        {
+          "id": 242,
+          "timestamp": 774.0,
+          "image_path": "unique_chyron_frames/chyron_0242_t774.00s.jpg",
+          "extracted_text": "وزیر اعلیٰ پنجاب مریم نواز کا کابینہ اجلاس میں احتیاطی تدابیر پر اظہار خیال"
+        }
+      ],
+      "stitched_images": [
+        {
+          "filename": "stitched_chyrons/stitched_000.jpg",
+          "num_frames": 50
+        },
+        {
+          "filename": "stitched_chyrons/stitched_001.jpg",
+          "num_frames": 50
+        },
+        {
+          "filename": "stitched_chyrons/stitched_002.jpg",
+          "num_frames": 50
+        },
+        {
+          "filename": "stitched_chyrons/stitched_003.jpg",
+          "num_frames": 50
+        },
+        {
+          "filename": "stitched_chyrons/stitched_004.jpg",
+          "num_frames": 43
+        }
+      ]
+    }
+  },
+  "processed_at": "2026-02-13T20:14:51.617210"
+}

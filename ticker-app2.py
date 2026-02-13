@@ -11,7 +11,7 @@ import numpy as np
 from datetime import datetime
 
 # Configure Gemini API
-GEMINI_API_KEY = "AIzaSyB1eA2OI7nT9YLB3_vH6hCTXIR3K5rN75o"
+GEMINI_API_KEY = "your-api-key"
 genai.configure(api_key=GEMINI_API_KEY)
 
 # Model configuration

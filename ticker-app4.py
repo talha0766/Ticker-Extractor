@@ -10,6 +10,7 @@ from threading import Lock
 import numpy as np
 from datetime import datetime
 import easyocr
+import shutil
 
 # Configure Gemini API
 GEMINI_API_KEY = "api-key"
@@ -587,12 +588,18 @@ def process_with_api_detection(video_path, video_metadata, existing_bboxes=None,
     # Extract sample frames for bbox detection
     sample_frames = extract_sample_frames(video_path, num_samples=5)
     
-    # Detect only the missing bounding boxes with API
-    new_bboxes = detect_bounding_boxes_with_api(sample_frames, missing_overlays)
-    
-    if not new_bboxes:
-        print("❌ Failed to detect bounding boxes")
-        return None
+    try:
+        # Detect only the missing bounding boxes with API
+        new_bboxes = detect_bounding_boxes_with_api(sample_frames, missing_overlays)
+        
+        if not new_bboxes:
+            print("❌ Failed to detect bounding boxes")
+            return None
+    finally:
+        # Clean up temp_frames folder
+        if os.path.exists('temp_frames'):
+            shutil.rmtree('temp_frames')
+            print("🗑️  Cleaned up temp_frames/")
     
     # Merge with existing bboxes
     if existing_bboxes:
@@ -687,6 +694,13 @@ def main(video_path):
         
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(output_data, f, indent=2, ensure_ascii=False)
+        
+        # Clean up all temporary image folders (data is already in JSON)
+        folders_to_cleanup = ['frames', 'unique_ticker_frames', 'unique_lower_third_frames', 'unique_headline_frames']
+        for folder in folders_to_cleanup:
+            if os.path.exists(folder):
+                shutil.rmtree(folder)
+        print("🗑️  Cleaned up temporary image folders")
         
         print("\n" + "="*50)
         print("✅ PROCESSING COMPLETE")

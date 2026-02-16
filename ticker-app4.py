@@ -406,7 +406,7 @@ def is_frame_different(img1, img2, threshold=0.15):
     return diff_ratio > threshold
 
 def process_overlay_frames(frames, bbox, overlay_type, output_folder):
-    """Process frames for a specific overlay type (ticker or chyron)"""
+    """Process frames for a specific overlay type (ticker, lower_third, or headline)"""
     print(f"\n📦 Processing {overlay_type} frames...")
     
     os.makedirs(output_folder, exist_ok=True)
@@ -434,53 +434,13 @@ def process_overlay_frames(frames, bbox, overlay_type, output_folder):
     print(f"✅ Found {len(unique_frames)} unique {overlay_type} frames")
     return unique_frames
 
-def stitch_frames_vertically(unique_frames, output_folder, frames_per_column=50):
-    """Stitch frames into vertical columns"""
-    if not unique_frames:
-        return []
-    
-    print(f"\n🔗 Stitching frames into columns of {frames_per_column}...")
-    
-    os.makedirs(output_folder, exist_ok=True)
-    
-    first_frame = cv2.imread(unique_frames[0]['image_path'])
-    frame_height, frame_width = first_frame.shape[:2]
-    
-    num_stitched = (len(unique_frames) + frames_per_column - 1) // frames_per_column
-    stitched_images = []
-    
-    for batch_idx in range(num_stitched):
-        start_idx = batch_idx * frames_per_column
-        end_idx = min(start_idx + frames_per_column, len(unique_frames))
-        batch_frames = unique_frames[start_idx:end_idx]
-        
-        canvas_height = frame_height * len(batch_frames)
-        canvas = np.zeros((canvas_height, frame_width, 3), dtype=np.uint8)
-        
-        for i, frame_info in enumerate(batch_frames):
-            frame_img = cv2.imread(frame_info['image_path'])
-            y_offset = i * frame_height
-            canvas[y_offset:y_offset + frame_height, :] = frame_img
-        
-        filename = f"{output_folder}/stitched_{batch_idx:03d}.jpg"
-        cv2.imwrite(filename, canvas, [cv2.IMWRITE_JPEG_QUALITY, 95])
-        
-        stitched_images.append({
-            'filename': filename,
-            'num_frames': len(batch_frames)
-        })
-    
-    print(f"✅ Created {len(stitched_images)} stitched images")
-    return stitched_images
-
-def extract_text_easyocr(unique_frames, overlay_type, batch_size=30):
+def extract_text_easyocr(unique_frames, overlay_type):
     """
-    Extract text from unique frames using EasyOCR with batch processing
+    Extract text from unique frames using EasyOCR (local processing, no API calls)
     
     Args:
         unique_frames: List of unique frame dicts with image_path
         overlay_type: 'ticker', 'lower_third', or 'headline'
-        batch_size: Number of images to process in memory at once
     
     Returns:
         List of frames with extracted text added
@@ -489,46 +449,35 @@ def extract_text_easyocr(unique_frames, overlay_type, batch_size=30):
         return unique_frames
     
     print(f"\n📝 Extracting text from {len(unique_frames)} {overlay_type} frames using EasyOCR...")
-    print(f"   Batch size: {batch_size} frames per batch")
     
     frames_with_text = []
-    num_batches = (len(unique_frames) + batch_size - 1) // batch_size
     
-    for batch_idx in range(num_batches):
-        start_idx = batch_idx * batch_size
-        end_idx = min(start_idx + batch_size, len(unique_frames))
-        batch_frames = unique_frames[start_idx:end_idx]
-        
-        # Process batch with EasyOCR
+    for frame_info in tqdm(unique_frames, desc=f"OCR {overlay_type}"):
         try:
-            # Process each image in the batch
-            # Note: EasyOCR loads model once and keeps it in memory, so processing
-            # multiple images sequentially is efficient (no model reloading per image)
-            for frame_info in batch_frames:
-                img = cv2.imread(frame_info['image_path'])
-                results = easyocr_reader.readtext(img)
-                
-                if results:
-                    # Extract text from results (each result is [bbox, text, confidence])
-                    texts = [text for (bbox, text, conf) in results]
-                    extracted_text = ' '.join(texts)
-                else:
-                    extracted_text = "NO_TEXT"
-                
-                # Add to frame info
-                frame_with_text = frame_info.copy()
-                frame_with_text['extracted_text'] = extracted_text
-                frames_with_text.append(frame_with_text)
+            # Read image
+            img = cv2.imread(frame_info['image_path'])
             
-            print(f"   ✅ Batch {batch_idx + 1}/{num_batches}: Processed {len(batch_frames)} frames")
+            # Use EasyOCR to extract text
+            results = easyocr_reader.readtext(img)
+            
+            # Combine all detected text
+            if results:
+                # Extract text from results (each result is [bbox, text, confidence])
+                texts = [text for (bbox, text, conf) in results]
+                extracted_text = ' '.join(texts)
+            else:
+                extracted_text = "NO_TEXT"
+            
+            # Add to frame info
+            frame_with_text = frame_info.copy()
+            frame_with_text['extracted_text'] = extracted_text
+            frames_with_text.append(frame_with_text)
             
         except Exception as e:
-            # Handle errors for this batch
-            print(f"   ❌ Batch {batch_idx + 1}/{num_batches} failed: {str(e)[:100]}")
-            for frame_info in batch_frames:
-                frame_with_text = frame_info.copy()
-                frame_with_text['extracted_text'] = f"ERROR: {str(e)[:100]}"
-                frames_with_text.append(frame_with_text)
+            # Handle errors gracefully
+            frame_with_text = frame_info.copy()
+            frame_with_text['extracted_text'] = f"ERROR: {str(e)[:100]}"
+            frames_with_text.append(frame_with_text)
     
     print(f"✅ Text extraction complete for {overlay_type}")
     return frames_with_text
@@ -564,12 +513,6 @@ def process_with_known_bbox(video_path, bboxes):
             'unique_ticker_frames'
         )
         
-        ticker_stitched = stitch_frames_vertically(
-            ticker_frames,
-            'stitched_tickers',
-            50
-        )
-        
         # Extract text from ticker frames using EasyOCR
         ticker_frames_with_text = extract_text_easyocr(
             ticker_frames,
@@ -578,8 +521,7 @@ def process_with_known_bbox(video_path, bboxes):
         
         results['ticker'] = {
             'unique_frames_count': len(ticker_frames_with_text),
-            'unique_frames': ticker_frames_with_text,
-            'stitched_images': ticker_stitched
+            'unique_frames': ticker_frames_with_text
         }
     
     # Process lower_third if bbox exists
@@ -591,12 +533,6 @@ def process_with_known_bbox(video_path, bboxes):
             'unique_lower_third_frames'
         )
         
-        lower_third_stitched = stitch_frames_vertically(
-            lower_third_frames,
-            'stitched_lower_thirds',
-            50
-        )
-        
         # Extract text from lower_third frames using EasyOCR
         lower_third_frames_with_text = extract_text_easyocr(
             lower_third_frames,
@@ -605,8 +541,7 @@ def process_with_known_bbox(video_path, bboxes):
         
         results['lower_third'] = {
             'unique_frames_count': len(lower_third_frames_with_text),
-            'unique_frames': lower_third_frames_with_text,
-            'stitched_images': lower_third_stitched
+            'unique_frames': lower_third_frames_with_text
         }
     
     # Process headline if bbox exists
@@ -618,12 +553,6 @@ def process_with_known_bbox(video_path, bboxes):
             'unique_headline_frames'
         )
         
-        headline_stitched = stitch_frames_vertically(
-            headline_frames,
-            'stitched_headlines',
-            50
-        )
-        
         # Extract text from headline frames using EasyOCR
         headline_frames_with_text = extract_text_easyocr(
             headline_frames,
@@ -632,8 +561,7 @@ def process_with_known_bbox(video_path, bboxes):
         
         results['headline'] = {
             'unique_frames_count': len(headline_frames_with_text),
-            'unique_frames': headline_frames_with_text,
-            'stitched_images': headline_stitched
+            'unique_frames': headline_frames_with_text
         }
     
     return results
@@ -647,10 +575,10 @@ def process_with_api_detection(video_path, video_metadata, existing_bboxes=None,
         video_path: Path to video file
         video_metadata: Video metadata dict
         existing_bboxes: Existing bounding boxes dict (if any)
-        missing_overlays: List of overlay types to detect (e.g., ['ticker'])
+        missing_overlays: List of overlay types to detect (e.g., ['ticker', 'lower_third', 'headline'])
     """
     if missing_overlays is None:
-        missing_overlays = ['ticker', 'chyron']
+        missing_overlays = ['ticker', 'lower_third', 'headline']
     
     print("\n" + "="*50)
     print(f"🔍 DETECTING MISSING BOUNDING BOXES: {', '.join(missing_overlays)}")
@@ -769,17 +697,14 @@ def main(video_path):
         if 'ticker' in results:
             print(f"\n📰 TICKER:")
             print(f"   Unique frames: {results['ticker']['unique_frames_count']}")
-            print(f"   Stitched images: {len(results['ticker']['stitched_images'])}")
         
         if 'lower_third' in results:
             print(f"\n📊 LOWER THIRD:")
             print(f"   Unique frames: {results['lower_third']['unique_frames_count']}")
-            print(f"   Stitched images: {len(results['lower_third']['stitched_images'])}")
         
         if 'headline' in results:
             print(f"\n📺 HEADLINE:")
             print(f"   Unique frames: {results['headline']['unique_frames_count']}")
-            print(f"   Stitched images: {len(results['headline']['stitched_images'])}")
     
     return results
 
